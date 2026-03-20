@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-19">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="4" title="title" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="group" type="string" />
+      <attribute id="1" title="title" type="string" />
+      <attribute id="2" title="size" type="long" />
+      <attribute id="3" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AS7552" label="AS7552">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 7552" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS18403" label="AS18403">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 18403" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS23707" label="AS23707">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 23707" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS23899" label="AS23899">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 23899" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS23962" label="AS23962">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 23962" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS24050" label="AS24050">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 24050" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS24088" label="AS24088">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 24088" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS24173" label="AS24173">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 24173" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS38244" label="AS38244">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 38244" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS38248" label="AS38248">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 38248" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS38735" label="AS38735">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 38735" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS38738" label="AS38738">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 38738" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45538" label="AS45538">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45538" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45543" label="AS45543">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45543" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45557" label="AS45557">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45557" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45896" label="AS45896">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45896" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45899" label="AS45899">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45899" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS45903" label="AS45903">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 45903" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS55309" label="AS55309">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 55309" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS56141" label="AS56141">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 56141" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS56147" label="AS56147">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 56147" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS56156" label="AS56156">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 56156" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS63731" label="AS63731">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 63731" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS63747" label="AS63747">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 63747" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131353" label="AS131353">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131353" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131357" label="AS131357">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131357" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131375" label="AS131375">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131375" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131410" label="AS131410">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131410" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131415" label="AS131415">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131415" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131423" label="AS131423">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131423" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS131429" label="AS131429">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 131429" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135902" label="AS135902">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135902" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135918" label="AS135918">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135918" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135952" label="AS135952">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135952" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135964" label="AS135964">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135964" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135967" label="AS135967">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135967" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135972" label="AS135972">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135972" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS135983" label="AS135983">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 135983" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="AS140750" label="AS140750">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="Autonomous System 140750" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="VNIX" label="VNIX">
+        <attvalues>
+          <attvalue for="0" value="IXP" />
+          <attvalue for="1" value="Vietnam National Internet eXchange" />
+          <attvalue for="2" value="30" />
+          <attvalue for="3" value="red" />
+        </attvalues>
+      </node>
+      <node id="AS1012" label="AS1012">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="AS1012" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="AS3557" label="AS3557">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="AS3557" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="AS5322" label="AS5322">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="AS5322" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="AS7500" label="AS7500">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="AS7500" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="AS25152" label="AS25152">
+        <attvalues>
+          <attvalue for="0" value="VN_ASN" />
+          <attvalue for="1" value="AS25152" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="IXP_1771" label="IXP_1771">
+        <attvalues>
+          <attvalue for="0" value="IXP" />
+          <attvalue for="1" value="PeeringDB IXP 1771" />
+          <attvalue for="2" value="25" />
+          <attvalue for="3" value="orange" />
+        </attvalues>
+      </node>
+      <node id="IXP_1772" label="IXP_1772">
+        <attvalues>
+          <attvalue for="0" value="IXP" />
+          <attvalue for="1" value="PeeringDB IXP 1772" />
+          <attvalue for="2" value="25" />
+          <attvalue for="3" value="orange" />
+        </attvalues>
+      </node>
+      <node id="IXP_1773" label="IXP_1773">
+        <attvalues>
+          <attvalue for="0" value="IXP" />
+          <attvalue for="1" value="PeeringDB IXP 1773" />
+          <attvalue for="2" value="25" />
+          <attvalue for="3" value="orange" />
+        </attvalues>
+      </node>
+      <node id="AS148967" label="AS148967">
+        <attvalues>
+          <attvalue for="0" value="ASN" />
+          <attvalue for="1" value="AS148967" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AS7552" target="VNIX" id="0" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS18403" target="VNIX" id="1" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS18403" target="IXP_1771" id="2" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS18403" target="IXP_1772" id="3" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS23707" target="IXP_1772" id="4" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS23899" target="IXP_1772" id="5" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS23962" target="IXP_1771" id="6" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS24050" target="IXP_1771" id="7" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS24088" target="VNIX" id="8" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS24173" target="VNIX" id="9" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS38244" target="VNIX" id="10" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS38248" target="VNIX" id="11" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS38735" target="VNIX" id="12" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS38738" target="VNIX" id="13" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45538" target="VNIX" id="14" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45543" target="VNIX" id="15" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45557" target="VNIX" id="16" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45896" target="VNIX" id="17" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45899" target="VNIX" id="18" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45903" target="VNIX" id="19" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS45903" target="IXP_1771" id="20" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS45903" target="IXP_1772" id="21" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS45903" target="IXP_1773" id="22" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS55309" target="VNIX" id="23" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS56141" target="VNIX" id="24" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS56147" target="VNIX" id="25" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS56156" target="IXP_1773" id="26" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS63731" target="VNIX" id="27" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS63747" target="VNIX" id="28" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131353" target="VNIX" id="29" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131357" target="VNIX" id="30" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131375" target="VNIX" id="31" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131410" target="VNIX" id="32" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131415" target="VNIX" id="33" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131415" target="IXP_1773" id="34" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS131423" target="VNIX" id="35" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS131429" target="VNIX" id="36" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135902" target="VNIX" id="37" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135918" target="VNIX" id="38" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135952" target="VNIX" id="39" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135964" target="VNIX" id="40" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135967" target="VNIX" id="41" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135972" target="VNIX" id="42" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS135983" target="VNIX" id="43" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS140750" target="VNIX" id="44" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="VNIX" target="AS1012" id="45" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="VNIX" target="AS3557" id="46" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="VNIX" target="AS5322" id="47" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="VNIX" target="AS7500" id="48" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="VNIX" target="AS25152" id="49" weight="2">
+        <attvalues>
+          <attvalue for="4" value="Peers at VNIX" />
+        </attvalues>
+      </edge>
+      <edge source="AS7500" target="IXP_1772" id="50" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="AS25152" target="IXP_1772" id="51" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+      <edge source="IXP_1773" target="AS148967" id="52" weight="1">
+        <attvalues>
+          <attvalue for="4" value="Connected via PeeringDB IXP" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

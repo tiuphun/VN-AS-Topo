@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"font": {"color": "white"}, "group": "VN_ASN", "id": "AS7552", "label": "AS7552", "shape": "dot", "size": 10, "title": "Autonomous System 7552"}, {"font": {"color": "white"}, "group": "IXP", "id": "VNIX", "label": "VNIX", "shape": "dot", "size": 30, "title": "Vietnam National Internet eXchange"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS18403", "label": "AS18403", "shape": "dot", "size": 10, "title": "Autonomous System 18403"}, {"font": {"color": "white"}, "group": "IXP", "id": "IXP_1771", "label": "IXP_1771", "shape": "dot", "size": 25, "title": "PeeringDB IXP 1771"}, {"font": {"color": "white"}, "group": "IXP", "id": "IXP_1772", "label": "IXP_1772", "shape": "dot", "size": 25, "title": "PeeringDB IXP 1772"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS23707", "label": "AS23707", "shape": "dot", "size": 10, "title": "Autonomous System 23707"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS23899", "label": "AS23899", "shape": "dot", "size": 10, "title": "Autonomous System 23899"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS23962", "label": "AS23962", "shape": "dot", "size": 10, "title": "Autonomous System 23962"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS24050", "label": "AS24050", "shape": "dot", "size": 10, "title": "Autonomous System 24050"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS24088", "label": "AS24088", "shape": "dot", "size": 10, "title": "Autonomous System 24088"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS24173", "label": "AS24173", "shape": "dot", "size": 10, "title": "Autonomous System 24173"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS38244", "label": "AS38244", "shape": "dot", "size": 10, "title": "Autonomous System 38244"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS38248", "label": "AS38248", "shape": "dot", "size": 10, "title": "Autonomous System 38248"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS38735", "label": "AS38735", "shape": "dot", "size": 10, "title": "Autonomous System 38735"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS38738", "label": "AS38738", "shape": "dot", "size": 10, "title": "Autonomous System 38738"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45538", "label": "AS45538", "shape": "dot", "size": 10, "title": "Autonomous System 45538"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45543", "label": "AS45543", "shape": "dot", "size": 10, "title": "Autonomous System 45543"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45557", "label": "AS45557", "shape": "dot", "size": 10, "title": "Autonomous System 45557"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45896", "label": "AS45896", "shape": "dot", "size": 10, "title": "Autonomous System 45896"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45899", "label": "AS45899", "shape": "dot", "size": 10, "title": "Autonomous System 45899"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS45903", "label": "AS45903", "shape": "dot", "size": 10, "title": "Autonomous System 45903"}, {"font": {"color": "white"}, "group": "IXP", "id": "IXP_1773", "label": "IXP_1773", "shape": "dot", "size": 25, "title": "PeeringDB IXP 1773"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS55309", "label": "AS55309", "shape": "dot", "size": 10, "title": "Autonomous System 55309"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS56141", "label": "AS56141", "shape": "dot", "size": 10, "title": "Autonomous System 56141"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS56147", "label": "AS56147", "shape": "dot", "size": 10, "title": "Autonomous System 56147"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS56156", "label": "AS56156", "shape": "dot", "size": 10, "title": "Autonomous System 56156"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS63731", "label": "AS63731", "shape": "dot", "size": 10, "title": "Autonomous System 63731"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS63747", "label": "AS63747", "shape": "dot", "size": 10, "title": "Autonomous System 63747"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131353", "label": "AS131353", "shape": "dot", "size": 10, "title": "Autonomous System 131353"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131357", "label": "AS131357", "shape": "dot", "size": 10, "title": "Autonomous System 131357"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131375", "label": "AS131375", "shape": "dot", "size": 10, "title": "Autonomous System 131375"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131410", "label": "AS131410", "shape": "dot", "size": 10, "title": "Autonomous System 131410"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131415", "label": "AS131415", "shape": "dot", "size": 10, "title": "Autonomous System 131415"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131423", "label": "AS131423", "shape": "dot", "size": 10, "title": "Autonomous System 131423"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS131429", "label": "AS131429", "shape": "dot", "size": 10, "title": "Autonomous System 131429"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135902", "label": "AS135902", "shape": "dot", "size": 10, "title": "Autonomous System 135902"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135918", "label": "AS135918", "shape": "dot", "size": 10, "title": "Autonomous System 135918"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135952", "label": "AS135952", "shape": "dot", "size": 10, "title": "Autonomous System 135952"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135964", "label": "AS135964", "shape": "dot", "size": 10, "title": "Autonomous System 135964"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135967", "label": "AS135967", "shape": "dot", "size": 10, "title": "Autonomous System 135967"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135972", "label": "AS135972", "shape": "dot", "size": 10, "title": "Autonomous System 135972"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS135983", "label": "AS135983", "shape": "dot", "size": 10, "title": "Autonomous System 135983"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS140750", "label": "AS140750", "shape": "dot", "size": 10, "title": "Autonomous System 140750"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS1012", "label": "AS1012", "shape": "dot", "size": 15, "title": "AS1012"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS3557", "label": "AS3557", "shape": "dot", "size": 15, "title": "AS3557"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS5322", "label": "AS5322", "shape": "dot", "size": 15, "title": "AS5322"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS7500", "label": "AS7500", "shape": "dot", "size": 15, "title": "AS7500"}, {"font": {"color": "white"}, "group": "VN_ASN", "id": "AS25152", "label": "AS25152", "shape": "dot", "size": 15, "title": "AS25152"}, {"font": {"color": "white"}, "group": "ASN", "id": "AS148967", "label": "AS148967", "shape": "dot", "size": 10, "title": "AS148967"}]);
+                  edges = new vis.DataSet([{"from": "AS7552", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS18403", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS18403", "title": "Connected via PeeringDB IXP", "to": "IXP_1771", "width": 1}, {"from": "AS18403", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "AS23707", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "AS23899", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "AS23962", "title": "Connected via PeeringDB IXP", "to": "IXP_1771", "width": 1}, {"from": "AS24050", "title": "Connected via PeeringDB IXP", "to": "IXP_1771", "width": 1}, {"from": "AS24088", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS24173", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS38244", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS38248", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS38735", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS38738", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45538", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45543", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45557", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45896", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45899", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45903", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS45903", "title": "Connected via PeeringDB IXP", "to": "IXP_1771", "width": 1}, {"from": "AS45903", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "AS45903", "title": "Connected via PeeringDB IXP", "to": "IXP_1773", "width": 1}, {"from": "AS55309", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS56141", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS56147", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS56156", "title": "Connected via PeeringDB IXP", "to": "IXP_1773", "width": 1}, {"from": "AS63731", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS63747", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131353", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131357", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131375", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131410", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131415", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131415", "title": "Connected via PeeringDB IXP", "to": "IXP_1773", "width": 1}, {"from": "AS131423", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS131429", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135902", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135918", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135952", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135964", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135967", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135972", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS135983", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "AS140750", "title": "Peers at VNIX", "to": "VNIX", "width": 2}, {"from": "VNIX", "title": "Peers at VNIX", "to": "AS1012", "width": 2}, {"from": "VNIX", "title": "Peers at VNIX", "to": "AS3557", "width": 2}, {"from": "VNIX", "title": "Peers at VNIX", "to": "AS5322", "width": 2}, {"from": "VNIX", "title": "Peers at VNIX", "to": "AS7500", "width": 2}, {"from": "VNIX", "title": "Peers at VNIX", "to": "AS25152", "width": 2}, {"from": "AS7500", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "AS25152", "title": "Connected via PeeringDB IXP", "to": "IXP_1772", "width": 1}, {"from": "IXP_1773", "title": "Connected via PeeringDB IXP", "to": "AS148967", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"forceAtlas2Based": {"gravitationalConstant": -50, "centralGravity": 0.01, "springLength": 100, "springConstant": 0.08}, "maxVelocity": 50, "solver": "forceAtlas2Based", "timestep": 0.35, "stabilization": {"iterations": 150}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
