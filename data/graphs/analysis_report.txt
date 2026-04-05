@@ -1,0 +1,143 @@
+
+─── 1. Basic Statistics ───
+  Total nodes:     529
+    AS nodes:      525
+    IXP nodes:     4
+  Total edges:     981
+  AS-only edges:   928
+
+─── 2. Connected Components ───
+  Number of connected components: 13
+    Component 1: 513 nodes
+    Component 2: 1 nodes
+    Component 3: 1 nodes
+    Component 4: 1 nodes
+    Component 5: 1 nodes
+  Largest component: 513 nodes, 928 edges
+  LCC coverage: 97.7% of AS nodes
+
+─── 3. Degree Analysis ───
+  Min degree:  0
+  Max degree:  247
+  Mean degree: 3.54
+  Median degree: 2.0
+
+  Top 15 Hubs by Degree:
+    AS18403 (FPT Telecom Company): degree 247
+    AS45899 (Vietnam Posts and Telecommunications (VNPT)): degree 130
+    AS7552 (Viettel Group): degree 108
+    AS45903 (CMC Telecom Infrastructure Company): degree 96
+    AS38731 (Vietel - CHT Compamy Ltd): degree 85
+    AS135905 (VIETNAM POSTS AND TELECOMMUNICATIONS GROUP): degree 37
+    AS24088 (Hanoi Telecom Joint Stock Company - HCMC Branch): degree 31
+    AS24173 (Branch of Netnam Company in Ho Chi Minh City): degree 31
+    AS38733 (CMC Telecom Infrastructure Company): degree 21
+    AS45896 (Mobifone Global JSC): degree 21
+    AS38732 (CMC Telecom Infrastructure Company): degree 20
+    AS131429 (MOBIFONE Corporation): degree 19
+    AS45543 (SaiGon Tourist cable Televition Company): degree 12
+    AS55309 (Minh Tu Telecom Limited Company): degree 11
+    AS63731 (TIEN PHAT TECHNOLOGY CORPORATION): degree 11
+
+  Classification:
+    Stub ASNs (degree ≤ 1):     256
+    Multi-homed (degree = 2):    154
+    Transit ASNs (degree > 2):   115
+
+─── 4. Degree Distribution ───
+  Saved degree distribution plot to /Users/tieuphuong/Downloads/VN-AS-Topo/scripts/../data/graphs/degree_distribution.png
+
+─── 5. Network Density ───
+  Density: 0.006747
+  (AS topologies are typically sparse, ~0.001-0.01)
+
+─── 6. Clustering Coefficient ───
+  Average clustering coefficient: 0.3235
+  Top 10 most clustered ASNs (degree ≥ 3):
+    AS24085: clustering 1.0000 (degree 4)
+    AS38730: clustering 1.0000 (degree 3)
+    AS45541: clustering 1.0000 (degree 3)
+    AS45901: clustering 1.0000 (degree 3)
+    AS45902: clustering 1.0000 (degree 3)
+    AS55306: clustering 1.0000 (degree 3)
+    AS55311: clustering 1.0000 (degree 3)
+    AS55318: clustering 1.0000 (degree 4)
+    AS56141: clustering 1.0000 (degree 3)
+    AS56159: clustering 1.0000 (degree 4)
+
+─── 7. Path-Based Metrics (Largest Component) ───
+  (LCC has 513 nodes — sampling for path metrics)
+  Estimated avg shortest path length (sampled): 2.816
+  Estimated diameter (sampled): 6
+
+─── 8. Betweenness Centrality ───
+  Top 15 Transit Backbones:
+    AS18403 (FPT Telecom Company): centrality 0.5647
+    AS45899 (Vietnam Posts and Telecommunications (VNPT)): centrality 0.1827
+    AS38731 (Vietel - CHT Compamy Ltd): centrality 0.1693
+    AS45903 (CMC Telecom Infrastructure Company): centrality 0.1491
+    AS7552 (Viettel Group): centrality 0.1365
+    AS135905 (VIETNAM POSTS AND TELECOMMUNICATIONS GROUP): centrality 0.0613
+    AS38733 (CMC Telecom Infrastructure Company): centrality 0.0494
+    AS24173 (Branch of Netnam Company in Ho Chi Minh City): centrality 0.0485
+    AS24088 (Hanoi Telecom Joint Stock Company - HCMC Branch): centrality 0.0305
+    AS38732 (CMC Telecom Infrastructure Company): centrality 0.0303
+    AS149107 (TRUMVPS COMPANY LIMITED): centrality 0.0283
+    AS131429 (MOBIFONE Corporation): centrality 0.0159
+    AS45538 (ODS Joint Stock Company): centrality 0.0152
+    AS45896 (Mobifone Global JSC): centrality 0.0137
+    AS38244 (VNG Corporation): centrality 0.0133
+
+─── 9. Closeness Centrality ───
+  Top 10 Most Central ASNs (Closeness):
+    AS18403 (FPT Telecom Company): closeness 0.6282
+    AS7552 (Viettel Group): closeness 0.5230
+    AS45899 (Vietnam Posts and Telecommunications (VNPT)): closeness 0.5203
+    AS45903 (CMC Telecom Infrastructure Company): closeness 0.5054
+    AS38731 (Vietel - CHT Compamy Ltd): closeness 0.4758
+    AS45543 (SaiGon Tourist cable Televition Company): closeness 0.4667
+    AS24173 (Branch of Netnam Company in Ho Chi Minh City): closeness 0.4563
+    AS152994 (EB Services LLC): closeness 0.4543
+    AS38726 (VTC DIGICOM): closeness 0.4527
+    AS45896 (Mobifone Global JSC): closeness 0.4515
+
+─── 10. Assortativity ───
+  Degree assortativity: -0.4611
+  (Negative = disassortative: high-degree nodes connect to low-degree nodes)
+  (This is typical for AS topologies — hub-and-spoke structure)
+
+─── 11. k-Core Decomposition ───
+  Maximum k-core: 5
+    0-core: 12 nodes
+    1-core: 247 nodes
+    2-core: 157 nodes
+    3-core: 56 nodes
+    4-core: 33 nodes
+    5-core: 20 nodes
+
+  Innermost core (5-core) members:
+    AS131127 (GLOBAL TECHNOLOGY - TELECOMMUNICATIONS CORPORATION)
+    AS131429 (MOBIFONE Corporation)
+    AS131436 (Information Technology and Digital Transformation Center - Vietnam Social Security)
+    AS131438 (VIETNAM POST)
+    AS135952 (VPS Securities Joint Stock Company)
+    AS18403 (FPT Telecom Company)
+    AS24088 (Hanoi Telecom Joint Stock Company - HCMC Branch)
+    AS24173 (Branch of Netnam Company in Ho Chi Minh City)
+    AS38248 (VTC-VN)
+    AS38726 (VTC DIGICOM)
+    AS38731 (Vietel - CHT Compamy Ltd)
+    AS38738 (L.C.S Company.,ltd)
+    AS45543 (SaiGon Tourist cable Televition Company)
+    AS45896 (Mobifone Global JSC)
+    AS45899 (Vietnam Posts and Telecommunications (VNPT))
+    AS45903 (CMC Telecom Infrastructure Company)
+    AS55309 (Minh Tu Telecom Limited Company)
+    AS63731 (TIEN PHAT TECHNOLOGY CORPORATION)
+    AS63741 (DCNET TELECOM)
+    AS7552 (Viettel Group)
+
+─── 12. Edge Relationship Breakdown ───
+  p2c: 857 (92.3%)
+  unknown: 58 (6.2%)
+  p2p: 13 (1.4%)

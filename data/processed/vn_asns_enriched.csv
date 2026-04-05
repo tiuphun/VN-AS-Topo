@@ -1,0 +1,1030 @@
+asn,org_name,country,aut_name,rank,cone_asns,cone_prefixes,degree_provider,degree_peer,degree_customer,degree_transit,clique_member
+7552,Viettel Group,VN,VIETEL-AS-AP,198,267,13025,6,247,112,359,True
+7602,Sai gon Postel Corporation,VN,SPT-AS-VN,13090,1,95,9,0,0,0,True
+7643,Vietnam Posts and Telecommunications (VNPT),VN,VNPT-AS-VN,15486,1,88,2,0,0,0,True
+18403,FPT Telecom Company,VN,FPT-AS-AP,189,281,11252,13,167,237,383,True
+23707,Internet Systems Consortium,US,ISC-HAN1,78608,1,0,0,0,0,0,False
+23899,Vietnam Internet network information center (VNNIC),VN,VNIX-AS-VN,4228,5,113,1,2,4,7,True
+23902,Vietnam Internet network information center (VNNIC),VN,VNNIC-AS-VN,10577,2,3,2,0,1,2,True
+23914,,VN,AS23914,78608,1,0,0,0,0,0,False
+23962,Vietnam Internet network information center (VNNIC),VN,VNIX-AS-VN,4449,5,34,2,4,2,7,True
+23999,Vietnam News Agency,VN,VNA-AS-VN,45422,1,2,2,0,0,0,True
+24035,Ministry of Foreign Affairs of Vietnam - MOFA,VN,MOFA-AS-VN,67211,1,1,1,0,0,0,True
+24050,Internet Systems Consortium,US,ISC-SGN1,78608,1,0,0,0,0,0,False
+24066,Vietnam Internet network information center (VNNIC),VN,VNNIC-AS-VN,7078,3,5,2,0,2,3,True
+24085,Quang Trung Software City Development Company,VN,QTSC-AS-VN,14908,1,106,4,0,0,0,True
+24086,Viettel Corporation,VN,VIETTEL-AS-VN,12500,1,300,1,1,0,2,True
+24087,VIETBRANDS COMPANY LIMITED,VN,VIETBRANDS-VN,78608,1,0,0,0,0,0,False
+24088,Hanoi Telecom Joint Stock Company - HCMC Branch,VN,HTCHCMC-AS-VN,1021,35,547,9,12,25,42,True
+24089,Vietnam Internet Network Information Center,VN,VNNIC-AS-AP,36223,1,1,2,0,0,0,True
+24173,Branch of Netnam Company in Ho Chi Minh City,VN,NETNAM-AS-AP,1290,26,361,7,38,25,63,True
+24174,Dong A Commercial Join Stock Bank,VN,DAB-AS-VN,60658,1,1,2,0,0,0,True
+24175,National Agency for Scientific and Technological Information,VN,VINAREN-AS-AP,22174,1,9,1,0,0,0,True
+24176,Branch of Netnam Company in Ho Chi Minh City,VN,NETNAMHCMC-AS-AP,15805,1,7,1,0,0,0,True
+24177,iNET software one member company limited,VN,INET-AS-AP,78608,1,0,0,0,0,0,False
+38244,VNG Corporation,VN,VINAGAME-AS-VN,3752,6,161,5,0,5,8,True
+38245,VIETBRANDS COMPANY LIMITED,VN,VIETBRANDS-AS-VN,78608,1,0,0,0,0,0,False
+38246,CDMA Mobile Phone Center S-Telecom,VN,SFONE-AS-VN,78608,1,0,0,0,0,0,False
+38247,Vietnamobile Telecommunications Joint Stock Company,VN,VIETNAMOBILE-AS-VN,18020,1,35,2,0,0,0,True
+38248,VTC-VN,VN,VTC-AS-VN,16455,1,46,4,0,0,0,True
+38249,KIS Viet Nam Securities Corporations,VN,KIS-AS-VN,36223,1,1,2,0,0,0,True
+38250,VSERVER EQUIPMENT TECHNOLOGY COMPANY LIMITED,VN,VSERVER-AS-VN,78608,1,0,0,0,0,0,False
+38251,VNDirect Securities Corporation,VN,VNDIRECT-AS-VN,60658,1,1,2,0,0,0,True
+38252,,VN,AS38252,78608,1,0,0,0,0,0,False
+38253,Hanoi Telecom JSC,VN,HANOITELECOM-AS-VN,23367,1,15,2,0,0,2,True
+38725,iNET software one member company limited,VN,INETSOFT-AS-VN,78608,1,0,0,0,0,0,False
+38726,VTC DIGICOM,VN,VTCDIGICOM-AS-VN,6070,3,106,3,1,2,3,True
+38727,HaNoi University of science and technology,VN,HUT-AS-VN,39683,1,1,1,0,0,0,True
+38728,,VN,AS38728,78608,1,0,0,0,0,0,False
+38729,Kien Cuong International JSC,VN,KCC-AS-VN,78608,1,0,0,0,0,0,False
+38730,VIETINBANK-VN,VN,VIETINBANK-AS-VN,35029,1,5,3,0,0,0,True
+38731,Vietel - CHT Compamy Ltd,VN,VTDC-AS-VN,524,84,2145,2,2,78,80,True
+38732,CMC Telecom Infrastructure Company,VN,CMCTELECOM-VN,1727,18,148,1,0,17,18,True
+38733,CMC Telecom Infrastructure Company,VN,CMCTELECOM-VN,1664,19,161,1,0,18,19,True
+38734,ENCAPITAL FINANCIAL TECHNOLOGY JOINT STOCK COMPANY.,VN,ENCAPITAL-AS-VN,48776,1,2,2,1,0,0,True
+38735,Global Data Service Joint Stock Company,VN,GDS-AS-VN,8099,2,61,4,0,1,4,True
+38736,Vietnam Internet network information center (VNNIC),VN,VNNIC-AS-VN,36223,1,1,2,0,0,0,True
+38737,Vietnam Internet network information center (VNNIC),VN,VNNIC-AS-VN,39683,1,1,1,0,0,0,True
+38738,"L.C.S Company.,ltd",VN,LCS-AS-VN,3687,6,123,4,0,3,6,True
+38739,Vietnam Internet network information center (VNNIC),VN,VNIX-AS-VN,39683,1,1,1,0,0,0,True
+45538,ODS Joint Stock Company,VN,ODSJSC-AS-VN,3682,6,178,1,0,5,6,True
+45539,VTCWLB-VN,VN,VTCWLB-AS-VN,78608,1,0,0,0,0,0,False
+45540,,VN,AS45540,78608,1,0,0,0,0,0,False
+45541,Information Technology Center - Joint Stock Commercial Bank for Investment and Development of Vietnam,VN,BIDV-AS-VN,35029,1,7,3,0,0,0,True
+45542,VietNam National University Ha Noi,VN,VNU-AS-VN,22174,1,14,1,0,0,0,True
+45543,SaiGon Tourist cable Televition Company,VN,SCTV-AS-VN,2256,12,296,11,19,5,25,True
+45544,SUPERDATA-VN,VN,SUPERDATA-AS-VN,16450,1,43,4,1,0,0,True
+45545,Sai Gon Telecommunication and Technology Corp,VN,SAIGONTEL-AS-VN,78608,1,0,0,0,0,0,False
+45546,Gtel Mobile Joint Stock Company,VN,GTELMOBILE-VN,26589,1,9,3,1,0,0,True
+45547,SPT Telecommunications Service Center,VN,STS-AS-VN,78608,1,0,0,0,0,0,False
+45548,Artex Securities Joint Stock Company,VN,ARTEXSECURITIES-AS-VN,78608,1,0,0,0,0,0,False
+45549,Hiep Nhat Company Limited,VN,HIEPNHAT-AS-VN,78608,1,0,0,0,0,0,False
+45550,,VN,AS45550,78608,1,0,0,0,0,0,False
+45551,HEINEKEN VIETNAM BREWERY LIMITED COMPANY,VN,VBL-AS-VN,60658,1,1,2,0,0,0,True
+45552,METASERV COMPANY LIMITED,VN,METASERV-VN,10218,2,5,2,0,1,3,True
+45553,BAO VIET HOLDINGS INFORMATION TECHNOLOGY CENTER BRANCH,VN,BAOVIET-AS-VN,49862,1,1,2,0,0,0,True
+45554,Vietnam Internet network information center (VNNIC),VN,VNNICANYCASTDNS-AS-VN,60658,1,1,2,0,0,0,True
+45555,,VN,AS45555,78608,1,0,0,0,0,0,False
+45556,Scancom Vietnam Ltd,VN,SCANCOM-AS-VN,60658,1,1,2,0,0,0,True
+45557,Vietnam Technology and Telecommunication JSC,VN,VNTT-AS-VN,19006,1,35,5,7,0,0,True
+45894,FPT Online JSC,VN,FPTONLINE-AS-VN,18854,1,30,2,0,0,0,True
+45895,Mobifone Global JSC,VN,MOBIFONEGLOBAL-AS-VN,78608,1,0,0,0,0,0,False
+45896,Mobifone Global JSC,VN,MOBIFONEGLOBAL-AS-VN,1132,31,479,6,35,15,54,True
+45897,Mobifone Global JSC,VN,MOBIFONEGLOBAL-AS-VN,78608,1,0,0,0,0,0,False
+45898,Vietnam Posts and Telecommunications (VNPT),VN,VNPT-AS-VN,78608,1,0,0,0,0,0,False
+45899,Vietnam Posts and Telecommunications (VNPT),VN,VNPT-AS-VN,214,250,15634,7,184,126,294,True
+45900,Department of Infomatic - The State Bank of Viet Nam,VN,SBV-AS-VN,67211,1,1,1,0,0,0,True
+45901,Vietnam Export Import Commercial JSC,VN,EXIMBANK-AS-VN,59812,1,1,3,0,0,0,True
+45902,Hai Phong Securities Company,VN,HASECO-AS-VN,59812,1,1,3,0,0,0,True
+45903,CMC Telecom Infrastructure Company,VN,CMCTELECOM-VN,326,154,4459,14,158,91,255,True
+55305,ODS Joint Stock Company,VN,ODSJSC-VN,39683,1,1,1,0,0,0,True
+55306,Vietnam bank for Agriculture anh Rural Development,VN,AGRIBANK-AS-VN,35029,1,5,3,0,0,0,True
+55307,Asian Pacific Securitis Joint Stock Company,VN,APEC-AS-VN,67211,1,1,1,0,0,0,True
+55308,Department of Information Technology and Digital Transformation - Ministry of Finance,VN,MOF-VN,36223,1,1,2,0,0,0,True
+55309,Minh Tu Telecom Limited Company,VN,MTT-AS-VN,2789,9,165,5,1,7,10,True
+55310,KCS VIETNAM COMPANY LIMITED,VN,KCS-AS-VN,60658,1,1,2,0,0,0,True
+55311,Loc Phat Vietnam Joint Stock Commercial Bank,VN,LPBANK-VN,44930,1,3,3,0,0,0,True
+55312,Golden Dragon Company,VN,HOANGLONG-AS-VN,60658,1,1,2,0,0,0,True
+55313,Hanel Communication JSC,VN,HANELCOM-AS-VN,19042,1,29,3,0,0,0,True
+55314,NEWLIFE COMPANY,VN,NEWLIFE-AS-VN,78608,1,0,0,0,0,0,False
+55315,SSI Securities Incorporation,VN,SSI-AS-VN,49862,1,2,2,0,0,0,True
+55316,Saigon - Hanoi Commercial Joint Stock Bank,VN,SHB-AS-VN,49862,1,2,2,0,0,0,True
+55317,"170 Hai Ba Trung, DaKao Ward, District 1, Hochiminh City",VN,ABBANK-AS-VN,49862,1,3,2,0,0,0,True
+55318,Asia Commercial Bank,VN,ACB-AS-VN,48405,1,3,4,0,0,0,True
+55319,VietNam Prosperity Joint Stock Commercial Bank,VN,VPBANK-AS-VN,45422,1,2,2,0,0,0,True
+55320,KNODE TECHNOLOGY COMPANY LIMITED,VN,KNODE-AS-VN,67211,1,1,1,0,0,0,True
+55321,Saigontourist securities corporation,VN,STSC-AS-VN,78608,1,0,0,0,0,0,False
+55322,North Power Company,VN,NPC-AS-VN,18491,1,2,1,0,0,0,True
+55323,Viet Nam Bank for Industry and Trade Securities JSC,VN,VIETINBANKSC-AS-VN,60658,1,1,2,0,0,0,True
+55324,Premier Oil Viet Nam Offshore B.V,VN,POVO-AS-VN,60658,1,1,2,0,0,0,True
+56141,Danang ICT Infrastructure Development Center,VN,DSP-AS-VN,26589,1,14,4,0,0,0,True
+56142,ZARUBEZHNEFT EP VIETNAM B.V.,VN,ZNEPVN-VN,67211,1,1,1,0,0,0,True
+56143,VDATA-VN,VN,VDATA-AS-VN,78608,1,0,0,0,0,0,False
+56144,AIA Life Insurance Company limited,VN,AIAVN-AS-VN,49862,1,2,2,0,0,0,True
+56145,Thanh Nien Net Telecom JSC,VN,TTN-AS-VN,78608,1,0,0,0,0,0,False
+56146,Global informatics solution corporation,VN,GLOBALCORP-AS-VN,30198,1,7,2,0,0,0,True
+56147,Creative Communication Vietnam Joint Stock Company,VN,CCVN-AS-VN,3565,7,29,3,0,6,9,True
+56148,PVcombank,VN,PVCOMBANK-VN,36223,1,4,2,0,0,0,True
+56149,Cong ty CP Truyen thong quoc te Incom,VN,INCOM-AS-VN,5475,4,23,2,0,3,4,True
+56150,Viet Solutions Services Trading Company Limited,VN,VHOST-AS-VN,19997,1,23,3,0,0,0,True
+56151,DigiStar Company Limited,VN,DIGISTAR-VN,78608,1,0,0,0,0,0,False
+56152,BStar Joint Stock Company,VN,BSTAR-AS-VN,78608,1,0,0,0,0,0,False
+56153,Digital Storage Company Limited,VN,LUUTRUSO-AS-VN,24643,1,691,2,0,0,0,True
+56154,THEGIOISO-VN,VN,THEGIOISO-AS-VN,78608,1,0,0,0,0,0,False
+56155,Tuong Minh Software Solutions Company Limited,VN,TMASOLUTIONS-AS-VN,26714,1,10,3,0,0,0,True
+56156,Vietnam Internet Network Information Center,VN,VNNIC-AS-AP,39683,1,2,1,0,0,0,True
+56157,One Vision Investment Trading Service Corporation,VN,ONEVISION-AS-VN,78608,1,0,0,0,0,0,False
+56158,Digital world data online company,VN,THEGIOISO-AS-VN,39683,1,5,1,0,0,0,True
+56159,Sai Gon Join stock commercial Bank,VN,SCB-AS-VN,34547,1,5,4,0,0,0,True
+56160,VIETNIX Solution and Technology Joint Stock Company,VN,VIETNIX-AS-VN,59006,1,46,2,0,0,0,True
+63730,VNSO TECHNOLOGY COMPANY,VN,VNSO-AS-VN,30631,1,2,1,0,0,0,True
+63731,TIEN PHAT TECHNOLOGY CORPORATION,VN,TPTECO-AS-VN,4490,5,37,7,1,4,10,True
+63732,GALAXY PLAY JOINT STOCK COMPANY,VN,GALAXYPLAY-AS-VN,39683,1,5,1,0,0,0,True
+63733,Thien Binh Software Service Company Limited,VN,HOATHAI-VN,27027,1,8,2,0,0,0,True
+63734,365 Online technology joint stock company,VN,GREENCLOUDVPS-AS-VN,39683,1,1,1,0,0,0,True
+63735,Hoatoc company limited,VN,HOATOC-AS-VN,39683,1,4,1,0,0,0,True
+63736,Nam A Commercial Joint Stock Bank,VN,NAMABANK-AS-VN,48405,1,2,4,0,0,0,True
+63737,VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED,VN,VIETSERVER-AS-VN,15365,1,51,2,0,0,0,True
+63738,GLTEC-VN,VN,GLTEC-AS-VN,78608,1,0,0,0,0,0,False
+63739,VIETPN Company Limited,VN,VIETPN-AS-VN,36223,1,2,2,0,0,0,True
+63740,TOCDOSOVN-VN,VN,TOCDOSOVN-AS-VN,39683,1,1,1,0,0,0,True
+63741,DCNET TELECOM,VN,DCNET-AS-VN,20730,1,20,9,85,0,0,True
+63742,BIDV Securities joint stock company,VN,BSC-AS-VN,36223,1,3,2,0,0,0,True
+63743,VietNam payment solution joint stock company,VN,VNPAY-AS-VN,34547,1,4,4,0,0,0,True
+63744,DNSE Securities Joint Stock Company,VN,DNSE-VN,78608,1,0,0,0,0,0,False
+63745,NTT VietNam Communication Company Limited,VN,NTT-AS-VN,78608,1,0,0,0,0,0,False
+63746,Institute of Information Technology (IOIT),VN,IOIT-AS-VN,39683,1,5,1,0,0,0,True
+63747,Central Post and Telecommunication (CPT),VN,CPT-AS-VN,21736,1,16,2,0,0,0,True
+63748,Department of Cyber ​​Security and High-Tech Crime Prevention,VN,CUCA05BCA-VN,78608,1,0,0,0,0,0,False
+63749,Luxoft VietNam Company LTD,VN,LUXOFT-AS-VN,36223,1,2,2,0,0,0,True
+63750,"18 Nguyen Du, Hai Ba Trung, Hanoi",VN,THUHOI-AS-VN,78608,1,0,0,0,0,0,False
+63751,Vietcombank securities Company limited,VN,VCBS-AS-VN,34547,1,4,4,0,0,0,True
+63752,Department of Science and Technology of Phu Tho province,VN,PTO-KHCN-VN,36223,1,1,2,0,0,0,True
+63753,Viet Nam Lottery One Member Company Limited,VN,VIETLOTT-AS-VN,49862,1,2,2,0,0,0,True
+63754,VMG MEDIA JOINT STOCK COMPANY,VN,VMG-AS-VN,35029,1,4,3,0,0,0,True
+63755,VietNam - Russia joint venture bank,VN,VRB-AS-VN,36223,1,5,2,0,0,0,True
+63756,VSTV-VN,VN,VSTV-AS-VN,46606,1,3,1,0,0,0,True
+63757,Pacific Technology Development and Communication joint stock company,VN,PACIFIC-AS-VN,78608,1,0,0,0,0,0,False
+63758,VETC Corporation,VN,VETC-AS-VN,36223,1,3,2,0,0,0,True
+63759,TaDu Joint Stock Company,VN,TADU-AS-VN,39683,1,1,1,0,0,0,True
+63760,AZDIGI Corporation,VN,AZDIGI-AS-VN,7789,2,101,3,0,1,2,True
+63761,Cong ty TNHH Dich vu truc tuyen Maxdata,VN,MAXDATA-VN,78608,1,0,0,0,0,0,False
+63762,VietNam Booking corporation,VN,VNBOOKING-AS-VN,78608,1,0,0,0,0,0,False
+63763,VCCORP-VN,VN,VCCORP-AS-VN,54093,1,1,1,0,0,0,True
+63764,INCOM SAI GON JOINT STOCK COMPANY,VN,INCOMSG-AS-VN,39683,1,5,1,0,0,0,True
+63765,HOSTVN Technology Solutions Joint Stock Company,VN,HOSTVN-VN,22985,1,14,4,0,0,0,True
+63766,VEGAGAME-VN,VN,VEGAGAME-AS-VN,25633,1,6,3,0,0,0,True
+63767,"1st Floor, Machinci Tower, 444 Hoang Hoa Tham, Thuy Khue, Tay Ho, HaNoi",VN,GCAFE-AS-VN,31474,1,5,3,0,0,0,True
+63768,Thien Binh Software Service Company Limited,VN,THIENBINH-AS-VN,35029,1,4,3,0,0,0,True
+63769,Information and Communication Technology Center of Bac Kan Province,VN,CICTBKN-AS-VN,78608,1,0,0,0,0,0,False
+131122,Vietnam Internet network information center (VNNIC),VN,VNNIC-4-BYTE-AS-VN,60658,1,1,2,0,0,0,True
+131123,Vietnam Internet network information center (VNNIC),VN,VNNIC-4-BYTE-AS-VN,60658,1,1,2,0,0,0,True
+131124,Vietnam Bank For Social Policies,VN,NHCSXH-AS-VN,60658,1,1,2,0,0,0,True
+131125,TVSI-VN,VN,TVSI-AS-VN,60658,1,1,2,0,0,0,True
+131126,Vietnam Airlines Corp,VN,VNAIR-AS-VN,35029,1,5,3,0,0,0,True
+131127,GLOBAL TECHNOLOGY - TELECOMMUNICATIONS CORPORATION,VN,GTEL-VN,5178,4,54,5,0,3,5,True
+131128,Onepay Online Service and Commercial Joint Stock Company,VN,ONEPAY-VN,48405,1,2,4,0,0,0,True
+131129,Hochiminh Stock Exchange,VN,HSX-AS-VN,48776,1,2,3,0,0,0,True
+131130,MB securities joint stock company,VN,TLS-AS-VN,48776,1,2,3,0,0,0,True
+131131,VNNIC-AS-VN,VN,VNNIC-AS-VN,60658,1,1,2,0,0,0,True
+131342,Vietnam Technological and Commercial Joint-stock Bank - Techcombank,VN,TECHCOMBANK-AS-VN,36223,1,5,2,0,0,0,True
+131343,Vietnam Internationl commercial joint stock bank,VN,VIB-AS-VN,34547,1,5,4,0,0,0,True
+131344,TH Food Chain Joint Stock Company,VN,THMILK-AS-VN,49862,1,2,2,0,0,0,True
+131345,KienLong commercial joint stock bank,VN,KIENLONGBANK-AS-VN,49862,1,2,2,0,0,0,True
+131346,FLYCLOUD Company Limited,VN,FLYCLOUD-AS-VN,78608,1,0,0,0,0,0,False
+131347,Shinhan Viet Nam Bank Limited,VN,SHINHANBANK-AS-VN,49862,1,1,2,0,0,0,True
+131348,Joint stock Commercial Bank for Foreign Trade of Viet Nam,VN,VIETCOMBANK-AS-VN,35029,1,5,3,0,0,0,True
+131349,Digital telecomminication service joint stock,VN,DIGINET-AS-VN,27816,1,10,1,0,0,0,True
+131350,Dak Nong Department of Information and Communications,VN,ICTDAKNONG-AS-VN,49862,1,1,2,0,0,0,True
+131351,Orient commercial joint stock bank,VN,OCB-AS-VN,44930,1,3,3,0,0,0,True
+131352,Vietnam Cybersecurity Emergency Response Teams/Coordination Center,VN,VNCERT-AS-VN,78608,1,0,0,0,0,0,False
+131353,NhanHoa Software company,VN,NHANHOA-AS-VN,18206,1,29,4,0,0,0,True
+131354,Prudential Vietnam Assurance Private limited,VN,PRUDENTIAL-AS-VN,60658,1,1,2,0,0,0,True
+131355,,VN,AS131355,78608,1,0,0,0,0,0,False
+131356,,VN,AS131356,78608,1,0,0,0,0,0,False
+131357,Duy Tan University,VN,DUYTAN-AS-VN,36223,1,5,2,0,0,0,True
+131358,Telehouse international corporation of vietnam,VN,TELEHOUSE-AS-VN,36223,1,3,2,0,0,0,True
+131359,ACB Securities Co. Ltd,VN,ACBS-AS-VN,78608,1,0,0,0,0,0,False
+131360,NATIONAL PAYMENT CORPORATION OF VIET NAM,VN,NAPAS-VN,36223,1,4,2,0,0,0,True
+131361,GSS Investment Corporation,VN,SUNSOFT-AS-VN,78608,1,0,0,0,0,0,False
+131362,HaNoi Stock Exchange,VN,HNX-AS-VN,49862,1,2,2,0,0,0,True
+131363,Department of Information Technology - General Department of Taxation,VN,GDT-AS-VN,35029,1,3,3,0,0,0,True
+131364,Military commercial join stock bank,VN,MBBANK-AS-VN,34547,1,3,4,0,0,0,True
+131365,Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment,VN,BNNMT-VN,36223,1,5,2,0,0,0,True
+131366,Lanit Technology and Communication Joint Stock Company,VN,LANIT-AS-VN,27816,1,7,1,0,0,0,True
+131367,Viet Online trading service corporation,VN,VONLINE-AS-VN,27027,1,8,2,0,0,0,True
+131368,Petro Viet Nam Oil Corporation,VN,PVOIL-AS-VN,36223,1,2,2,0,0,0,True
+131369,Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment,VN,BNNMT-VN,67211,1,1,1,0,0,0,True
+131370,Branch of Netnam Company in Ho Chi Minh City,VN,NETNAM-AS-VN,78608,1,0,0,0,0,0,False
+131371,BaoMinh securities company,VN,BMSC-AS-VN,36223,1,4,2,0,0,0,True
+131372,VIVAS-VN,VN,VIVAS-AS-VN,36223,1,1,2,0,0,0,True
+131373,Information Technology Center - Ministry of Science and Technology,VN,MST-AS-VN,36223,1,5,2,0,0,0,True
+131374,HQG Technology Solutions Joint Stock Company,VN,HQG-AS-VN,39683,1,1,1,0,0,0,True
+131375,Information Technology Center - Ministry of Science and Technology,VN,MST-AS-VN,36223,1,5,2,0,0,0,True
+131376,KB Securities Vietnam Joint Stock Company,VN,KBSV-AS-VN,49862,1,1,2,0,0,0,True
+131377,"DIGIPOWER CO., LTD",VN,DIGIPOWER-AS-VN,78608,1,0,0,0,0,0,False
+131378,Cloud Viet Technology Company Limited,VN,CLOUDVIET-AS-VN,30631,1,4,1,0,0,0,True
+131379,Modern Bank of Vietnam Limited,VN,MBV-VN,35029,1,4,3,0,0,0,True
+131380,Niteco VN,VN,NITECO-AS-VN,36223,1,6,2,0,0,0,True
+131381,Department of Information Technology and Customs Statistics,VN,TCHQ-VN,36223,1,1,2,0,0,0,True
+131382,CFOX TECH COMPANY LIMITED,VN,CFOX-VN,39683,1,4,1,0,0,0,True
+131383,PVI Holdings,VN,PVI-AS-VN,34547,1,4,4,0,0,0,True
+131384,Viet Solutions Services Trading Company Limited,VN,VHOST-AS-VN,78608,1,0,0,0,0,0,False
+131385,VTV-VN,VN,VTV-AS-VN,39683,1,1,1,0,0,0,True
+131386,Long Van System Solution JSC,VN,LVSS-AS-VN,18206,1,9,4,0,0,0,True
+131387,Sun Life Vietnam Insurance Company Limited,VN,PVISL-AS-VN,49862,1,2,2,0,0,0,True
+131388,VIET NAM HT GROUP JOINT STOCK COMPANY,VN,HTS-AS-VN,78608,1,0,0,0,0,0,False
+131389,SeABank,VN,SEABANK-AS-VN,45422,1,2,2,0,0,0,True
+131390,Center for E-commerce and Digital Technology Development,VN,ECOMDX-VN,36223,1,5,2,0,0,0,True
+131391,Vietnam-Asia Commercial Joint Stock Bank,VN,VAB-AS-VN,36223,1,4,2,0,0,0,True
+131392,GMO-Z.com Runsystem Joint Stock Company,VN,RUNSYSTEM-AS-VN,15699,1,14,3,0,0,0,True
+131393,Minh Phat Telecomunication service Company Limited,VN,MINHPHAT-AS-VN,78608,1,0,0,0,0,0,False
+131394,,VN,AS131394,78608,1,0,0,0,0,0,False
+131395,Van phong Dieu phoi Nong thong moi Trung uong,VN,VPDPTW-AS-VN,78608,1,0,0,0,0,0,False
+131396,Rmit International University Vietnam,VN,RUVN-AS-VN,30198,1,6,2,0,0,0,True
+131397,Hanoi Medical University,VN,HMU-AS-VN,39683,1,1,1,0,0,0,True
+131398,LOTTE INNOVATE VIETNAM COMPANY LIMITED,VN,LDCC-AS-VN,36223,1,5,2,0,0,0,True
+131399,AI-Solutions Company Limited,VN,AI-SOL-AS-VN,78608,1,0,0,0,0,0,False
+131400,Global Data Joint Stock Company,VN,GDATA-AS-VN,78608,1,0,0,0,0,0,False
+131401,Department of Science and Technology of Vinh Phuc province,VN,SOTTTTVP-VN,39683,1,1,1,0,0,0,True
+131402,FPT Software Company limited,VN,FPTSOFTWARE-AS-VN,27027,1,8,2,0,0,0,True
+131403,ICSOFT Joint Stock Company,VN,ICSOFT-AS-VN,11005,2,6,1,0,1,2,True
+131404,Masters Technology Corporation,VN,VIETNAMHOST-AS-VN,39683,1,1,1,0,0,0,True
+131405,Saigon Newport,VN,TANCANGSG-AS-VN,36223,1,4,2,0,0,0,True
+131406,CTC Media Technology Apply Joint Stock Company,VN,CTC-AS-VN,78608,1,0,0,0,0,0,False
+131407,Sai Gon CTT,VN,SGCTT-AS-VN,39683,1,1,1,0,0,0,True
+131408,TPBANK-VN,VN,TPBANK-AS-VN,36223,1,4,2,0,0,0,True
+131409,ACT Telecomunication Joint Stock Company,VN,ACT-AS-VN,49862,1,3,2,0,0,0,True
+131410,Vietnam Cable Television Corporation Joint Stock Company,VN,VTVCAB-AS-VN,27816,1,10,1,0,0,0,True
+131411,VietNamNet,VN,VIETNAMNET-AS-VN,39683,1,1,1,0,0,0,True
+131412,State Audit Office of Vietnam,VN,SAV-AS-VN,35029,1,4,3,0,0,0,True
+131413,VINGROUP JOINT STOCK COMPANY,VN,VINGROUP-AS-VN,29173,1,8,2,0,0,0,True
+131414,Long Van Soft Solution JSC,VN,LVSOFT-AS-VN,23963,1,3,2,0,0,0,True
+131415,Vietnam Internet network information center (VNNIC),VN,VNNIC-AS-VN,36223,1,1,2,0,0,0,True
+131416,Cloudone Technology Company Limited,VN,CLOUDONE-AS-VN,78608,1,0,0,0,0,0,False
+131417,Vietnam National Coaland Mineral Industries Holding Corporation Limited,VN,VINACOMIN-AS-VN,67211,1,1,1,0,0,0,True
+131418,SHOPEEPAY JOINT STOCK COMPANY,VN,SHOPEEPAY-VN,3512,7,52,4,0,6,10,True
+131419,NATIONAL PAYMENT CORPORATION OF VIET NAM,VN,NAPAS-VN,36223,1,2,2,0,0,0,True
+131420,,VN,AS131420,78608,1,0,0,0,0,0,False
+131421,"Intercom Telecom., JSC",VN,INTERCOM-VN,3228,8,24,2,0,7,9,True
+131422,"Center for Digital Transformation of Culture, Sports and Tourism - Ministry of Culture, Sports and Tourism",VN,DTCCST-MCST-VN,54093,1,2,1,0,0,0,True
+131423,Branch of Long Van System Solution JSC - Hanoi,VN,LVHN-AS-VN,9286,2,15,3,0,1,2,True
+131424,Online Solution Company Limited,VN,ESC-AS-VN,78608,1,0,0,0,0,0,False
+131425,The gioi di dong jsc,VN,TGDD-AS-VN,36223,1,4,2,0,0,0,True
+131426,MISA-VN,VN,MISA-VN-AS,39683,1,5,1,0,0,0,True
+131427,AOHOAVIET-VN,VN,AOHOAVIET-VN-AS,27816,1,8,1,0,0,0,True
+131428,Rainbow E-Commerce Company Limited,VN,BIZMAC-VN-AS,20926,1,22,1,0,0,0,True
+131429,MOBIFONE Corporation,VN,MOBIFONE-AS-VN,1278,26,628,9,10,16,33,True
+131430,Bao Viet Commercial Joint Stock Bank,VN,BAOVIETBANK-VN,35029,1,4,3,0,0,0,True
+131431,,VN,AS131431,78608,1,0,0,0,0,0,False
+131432,Cyber Link Service Trading Corporation,VN,ASIACOM-AS-VN,78608,1,0,0,0,0,0,False
+131433,,VN,AS131433,78608,1,0,0,0,0,0,False
+131434,Scom Technology Join stock company,VN,SCOM-AS-VN,39683,1,5,1,0,0,0,True
+131435,Binh Minh Software Service Company Limited,VN,HOABINH-VN,9626,2,21,4,0,1,4,True
+131436,Information Technology and Digital Transformation Center - Vietnam Social Security,VN,VSSIC-VN,34295,1,5,5,0,0,0,True
+131437,Van Gia Technology Company Limited,VN,VANGIATECH-VN,78608,1,0,0,0,0,0,False
+131438,VIETNAM POST,VN,VNPOST-AS-VN,34149,1,4,6,0,0,0,True
+131439,VietNam credit information joint stock company,VN,PCB-AS-VN,44757,1,3,4,0,0,0,True
+131440,ZINGPLAY VIETNAM COMPANY LIMITED,VN,ZINGPLAY-VN,36223,1,5,2,0,0,0,True
+131441,May Chu Viet Company Limited,VN,VIETHOSTING-AS-VN,78608,1,0,0,0,0,0,False
+132301,TVL Service Technology Company Limited,VN,TVL-VN,,,,,,,,
+133047,,,,,,,,,,,
+133935,CMC Telecom Infrastructure Company,VN,CMCTELECOM-VN,78608,1,0,0,0,0,0,False
+134481,CMC Telecom Infrastructure Company,VN,CMCTELECOM-VN,78608,1,0,0,0,0,0,False
+135665,Vietnam Internet Development Company Limited,VN,VNNET-VN,78608,1,0,0,0,0,0,False
+135900,State Data Center - Hanoi Department of Science and Technology,VN,HNSDC-AS-VN,36223,1,1,2,0,0,0,True
+135901,Phuong Dong technology solution company limited,VN,MAYCHUNHO-AS-VN,24197,1,12,1,0,0,0,True
+135902,Hahalolo Travel Social Network Joint Stock Company,VN,HAHALOLO-AS-VN,78608,1,0,0,0,0,0,False
+135903,FFC joint stock company,VN,FFC-AS-VN,78608,1,0,0,0,0,0,False
+135904,VINID PAY JOINT STOCK COMPANY,VN,VINIDPAY-AS-VN,49862,1,1,2,0,0,0,True
+135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,VN,VNPT-AS-VN,862,44,5844,1,1,37,39,True
+135906,BOOKING247 COMPANY LIMITED,VN,BOOKING247-AS-VN,54093,1,1,1,0,0,0,True
+135907,"VI NA Host Co., ltd",VN,VINAHOST-AS-VN,78608,1,0,0,0,0,0,False
+135908,ECONET VIETNAM CORPORATION,VN,ECONET-AS-VN,39683,1,4,1,0,0,0,True
+135909,Information Technology Park - Vietnam National University Ho Chi Minh City,VN,VNUHCM-AS-VN,36223,1,6,2,0,0,0,True
+135910,"INTELLIGENCE INFORMATION SYSTEM CO, LTD",VN,ISYSTEM-AS-VN,67211,1,1,1,0,0,0,True
+135911,VietNam maritime commercial joint stock bank,VN,MSB-AS-VN,36223,1,5,2,0,0,0,True
+135912,VNETWORK Joint Stock Company,VN,VNETWORK-AS-VN,44930,1,3,3,0,0,0,True
+135913,MB Ages life insurance company limited,VN,MBAGEAS-AS-VN,39683,1,4,1,0,0,0,True
+135914,Quang Trung Software City Development Company,VN,QTSC-AS-VN,78608,1,0,0,0,0,0,False
+135915,"8 Floor, 96-98 Dao Duy Anh, Phu Nhuan, HCMC",VN,TLSOFT-AS-VN,27816,1,2,1,0,0,0,True
+135916,"descr: No. 14, 256 Bach Dang, Chuong Duong, Hoan Kiem, Hanoi",VN,KIENPHONGITS-AS-VN,27816,1,8,1,0,0,0,True
+135917,Cong ty TNHH Web Panda,VN,WEBPANDA-AS-VN,39683,1,1,1,0,0,0,True
+135918,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,VN,DVS-AS-VN,7726,2,174,2,0,1,3,True
+135919,MB SHINSEI Finance Limited Liability Company,VN,MCREDIT-AS-VN,35029,1,6,3,0,0,0,True
+135920,Ehost software company limited,VN,EHOST-AS-VN,32281,1,5,1,0,0,0,True
+135921,Maxserver Company Limited,VN,MAXSERVER-AS-VN,24197,1,3,1,0,0,0,True
+135922,Clearsky Service Solutions Company Limited,VN,CLEARSKY-AS-VN,39683,1,5,1,0,0,0,True
+135923,SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED,VN,SCTVIBI-AS-VN,39683,1,4,1,0,0,0,True
+135924,FWD Vietnam Life Insurance Company Limited,VN,FWD-AS-VN,36223,1,1,2,0,0,0,True
+135925,"16 Au Co, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh city (EVNSPC Building)",VN,EVNSPC-AS-VN,35029,1,5,3,0,0,0,True
+135926,Phu Nhuan Jewelry Joint Stock Company,VN,PNJ-AS-VN,36223,1,5,2,0,0,0,True
+135927,Phu Quoc Petroleum Operating Company,VN,PQPOC-AS-VN,36223,1,1,2,0,0,0,True
+135928,Digital Convergence Technology Solutions Company Limited,VN,HOITUSO-AS-VN,11005,2,7,1,0,1,2,True
+135929,International Education Corporation,VN,COGNITA-AS-VN,36223,1,5,2,0,0,0,True
+135930,Anycast Networks (VN),VN,HST-AS-VN,78608,1,0,0,0,0,0,False
+135931,,VN,AS135931,78608,1,0,0,0,0,0,False
+135932,Viet Storage Technology Joint Stock Company,VN,VNDATA-AS-VN,21529,1,11,4,0,0,0,True
+135933,Bac A Commercial Joint Stock Bank,VN,BACABANK-AS-VN,36223,1,6,2,0,0,0,True
+135934,Dong Thap Provincial Digital Transformation Center,VN,ICTDONGTHAP-AS-VN,39683,1,1,1,0,0,0,True
+135935,Binh Minh Software Service Company Limited,VN,BINHMINH-VN,29173,1,8,2,0,0,0,True
+135936,LABO A&B Joint Stock Company,VN,AIPACIFIC-AS-VN,39683,1,1,1,0,0,0,True
+135937,Next Technology Investment and Development Company Limited,VN,NEXTTECH-AS-VN,39683,1,4,1,0,0,0,True
+135938,Home Credit Viet nam Finance Company Limited,VN,HOMECREDIT-AS-VN,35029,1,4,3,0,0,0,True
+135939,VNPT Electronic Payment Joint Stock Company,VN,VNPTEPAY-AS-VN,39683,1,4,1,0,0,0,True
+135940,Nice Tech Center Vietnam Limited Company,VN,NICETECHCENTER-AS-VN,78608,1,0,0,0,0,0,False
+135941,,VN,AS135941,78608,1,0,0,0,0,0,False
+135942,Adsota Corporation,VN,ADSOTA-AS-VN,25121,1,10,2,0,0,0,True
+135943,TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY,VN,TMT-VN,5875,3,101,2,0,2,4,True
+135944,VinhNam Commercial informatics service corporation,VN,VINACIS-AS-VN,17910,1,27,2,0,0,0,True
+135945,VTC Online Joint Stock Company,VN,VTCONLINE-AS-VN,39683,1,4,1,0,0,0,True
+135946,Long An Department of Information and Communications,VN,STTTTLA-AS-VN,39683,1,1,1,0,0,0,True
+135947,Shopee Company Limited,VN,SHOPEE-VN,4500,5,34,3,0,4,7,True
+135948,Thien Binh Software Service Company Limited,VN,S-TRADING-AS-VN,78608,1,0,0,0,0,0,False
+135949,Cloudfone Viet Nam Joint Stock Company,VN,CLOUDFONE-AS-VN,39683,1,1,1,0,0,0,True
+135950,Binh Duong E-Government Information Center,VN,ICTBINHDUONG-AS-VN,78608,1,0,0,0,0,0,False
+135951,Webico Company Limited,VN,WEBICO-AS-VN,18020,1,28,2,0,0,0,True
+135952,VPS Securities Joint Stock Company,VN,VPS-AS-VN,35029,1,4,3,0,0,0,True
+135953,Vietnam Online Network Solution Joint Stock Compnay,VN,BKHOST-AS-VN,11391,2,5,1,0,1,2,True
+135954,TNU Service Consulting Company Limited,VN,TVTNU-VN,78608,1,0,0,0,0,0,False
+135955,Data integration and digital transformation center of Lam Dong province,VN,LAMDONGPORTAL-AS-VN,36223,1,1,2,0,0,0,True
+135956,The Authority of Information Technology - Ministry of Health,VN,MOH-AS-VN,36223,1,3,2,0,0,0,True
+135957,Hue City Smart Urban Monitoring and Operation Center,VN,EDIC-AS-VN,45422,1,3,2,0,0,0,True
+135958,Teko Vietnam Technology Joint Stock Company,VN,TEKO-AS-VN,39683,1,4,1,0,0,0,True
+135959,Onebim Vietnam Limited Company,VN,ONEBIM-AS-VN,39683,1,4,1,0,0,0,True
+135960,,VN,AS135960,78608,1,0,0,0,0,0,False
+135961,Viet Nam Data Online Joint Stock Company,VN,VDO-AS-VN,39683,1,1,1,0,0,0,True
+135962,AIS Securitites Joint Stock Company,VN,AIS-AS-VN,60658,1,1,1,1,0,0,True
+135963,Information Technology Center - Ministry of Home Affairs,VN,MOHA-VN,39683,1,1,1,0,0,0,True
+135964,RVC Rong Viet Trade Service Telecom Company Limited,VN,RVC-AS-VN,7294,3,13,2,0,2,4,True
+135965,VNPT Net Corporation - VNPT Group,VN,VNPT-NET-AS-VN,78608,1,0,0,0,0,0,False
+135966,,VN,AS135966,78608,1,0,0,0,0,0,False
+135967,Bach Kim Network solutions Join stock company,VN,BKNS-AS-VN,17542,1,20,2,0,0,0,True
+135968,Early Start Joint Stock Company,VN,EARLYSTART-AS-VN,78608,1,0,0,0,0,0,False
+135969,Sen Do Technology Joint Stock Company,VN,SENDO-AS-VN,54093,1,2,1,0,0,0,True
+135970,,VN,AS135970,78608,1,0,0,0,0,0,False
+135971,PetroVietNam Securities Joint Stock Company,VN,PSI-AS-VN,49862,1,1,2,0,0,0,True
+135972,Quang Nam Department of Information and Communications,VN,ICTQUANGNAM-AS-VN,54093,1,1,1,0,0,0,True
+135973,Bamboo Airways Company Limited,VN,BAV-AS-VN,54093,1,1,1,0,0,0,True
+135974,National Power Transmission Corporation,VN,NPT-AS-VN,49862,1,2,2,0,0,0,True
+135975,Sea Gem Company Limited,VN,SEAGEM-AS-VN,78608,1,0,0,0,0,0,False
+135976,CLO Technology Limited Company,VN,CLO-AS-VN,78608,1,0,0,0,0,0,False
+135977,Vietnam BDA technology and communication joint stock company,VN,BDA-CORP-AS-VN,11872,2,2,1,0,1,2,True
+135978,Hanoi University of Industry,VN,HAUI-AS-VN,54093,1,1,1,0,0,0,True
+135979,QI TECHNOLOGIES CORPORATION,VN,QINET-AS-VN,78608,1,0,0,0,0,0,False
+135980,Information and Communication Technology Center of Quang Ninh,VN,ICTQUANGNINH-AS-VN,54093,1,2,1,0,0,0,True
+135981,VisualViet Company Limited,VN,VISUALVIET-AS-VN,46606,1,2,1,0,0,0,True
+135982,Hoi An South Development Ltd,VN,HASD-AS-VN,49862,1,2,2,0,0,0,True
+135983,Tino Group Joint Stock Company,VN,TINO-AS-VN,8704,2,39,1,0,1,2,True
+135984,,VN,AS135984,78608,1,0,0,0,0,0,False
+135985,BCALL Viet Nam Company Limited,VN,BCALLVINA-AS-VN,54093,1,1,1,0,0,0,True
+135986,Turbo Technology Solution Joint Stock Company,VN,ECOCLOUD-AS-VN,54093,1,3,1,0,0,0,True
+135987,Reload Company Limited,VN,INDRA-RELOAD-AS-VN,20926,1,8,1,0,0,0,True
+135988,Sun Group Corporation,VN,SUNGROUP-AS-VN,48776,1,2,3,0,0,0,True
+135989,Tay Ninh Department of Information and Communications,VN,TAYNINH-AS-VN,54093,1,1,1,0,0,0,True
+135990,Everest Global Joint Stock Company,VN,EVG-AS-VN,44757,1,3,4,0,0,0,True
+135991,Green Network Solutions LTD.,VN,GREENNET-AS-VN,54093,1,1,1,0,0,0,True
+135992,Department of Domestic Market Management and Development - Ministry of Industry and Trade,VN,DMS-VN,78608,1,0,0,0,0,0,False
+135993,IPTP Networks Company Limited,VN,IPTP-AS-VN,78608,1,0,0,0,0,0,False
+135994,IDC Online Technology and Solutions Corporation,VN,IDCONLINE-AS-VN,54093,1,1,1,0,0,0,True
+135995,TLINKVN Technology Connection Joint Stock Company,VN,TLINK-AS-VN,78608,1,0,0,0,0,0,False
+135996,Be Group Joint Stock Company,VN,BEGROUP-AS-VN,78608,1,0,0,0,0,0,False
+135997,EVN Finance Joint Stock Company,VN,EASYCREDIT-AS-VN,67211,1,1,1,0,0,0,True
+135998,International Distribution Corporation,VN,IDBVIETNAM-AS-VN,54093,1,1,1,0,0,0,True
+135999,ITCPLUS Vietnam Joint Stock Company,VN,ITCPLUS-AS-VN,78608,1,0,0,0,0,0,False
+137463,ANM Website Design Service Company Limited,VN,ANM-DESIGN-VN,78608,1,0,0,0,0,0,False
+137892,TOAN MY SERVICE BUSINESS LLC,VN,TMSBL-AS-AP,78608,1,0,0,0,0,0,False
+139772,Hero Digital Technology LLC,US,HDTL-AS-AP,78608,1,0,0,0,0,0,False
+139796,Gia Phu Technology Infrastructure Company Limited,VN,GIAPHUCLOUD-VN,78608,1,0,0,0,0,0,False
+140737,Viva social network Joint Stock Company,VN,VIVA-AS-VN,78608,1,0,0,0,0,0,False
+140738,VESNET JOINT STOCK COMPANY,VN,WEALLNET-AS-VN,78608,1,0,0,0,0,0,False
+140739,USDC TECHNOLOGY JSC,VN,USDC-AS-VN,49862,1,3,2,0,0,0,True
+140740,HA CUONG TRADING INVESTMENT COMPANY LIMITED,VN,HACUONG-AS-VN,78608,1,0,0,0,0,0,False
+140741,,VN,AS140741,78608,1,0,0,0,0,0,False
+140742,DZOGAME COMPANY LIMITED,VN,DZOGAME-AS-VN,54093,1,3,1,0,0,0,True
+140743,Vietnam Cloud Technology and Services Joint Stock Company,VN,ZHOST-VN,78608,1,0,0,0,0,0,False
+140744,Hanoi Technology and Equipment Joint Stock Company,VN,MAT-HN-AS-VN,78608,1,0,0,0,0,0,False
+140745,VINTEK VIET NAM TECHNOLOGY TELECOM COMPANY LIMITED,VN,VINTEK-AS-VN,35029,1,4,3,0,0,0,True
+140746,MCT Technology Solution Joint Stock Company,VN,MCT-AS-VN,78608,1,0,0,0,0,0,False
+140747,Department of Science and Technology of Dong Nai province,VN,DONGNAI-VN,54093,1,1,1,0,0,0,True
+140748,Department of Science and Technology of Vinh Long province,VN,ICTVL-AS-VN,49862,1,1,2,0,0,0,True
+140749,NSTECH VIET NAM JOINT STOCK COMPANY,VN,NSTECH-AS-VN,78608,1,0,0,0,0,0,False
+140750,Viet Nam Telecommunications Authority,VN,VNTA-AS-VN,54093,1,2,1,0,0,0,True
+140751,Information Technology and Communication Center of Binh Thuan Department of Information and Communications,VN,ICTBT-AS-VN,54093,1,1,1,0,0,0,True
+140752,Kien Phong Trading Service Telecommunication Company Limited,VN,KIENPHONG-AS-VN,78608,1,0,0,0,0,0,False
+140753,Representative Office in Hanoi of Vinahost Company Limited,VN,VINAHOST-HN-AS-VN,78608,1,0,0,0,0,0,False
+140754,SPR Viet Nam Joint Stock Company,VN,SPRVIETNAM-AS-VN,78608,1,0,0,0,0,0,False
+140755,Ha Tuyet Trading and Services Company Limited,VN,HATUYETTECH-VN,78608,1,0,0,0,0,0,False
+140756,SAIGON TELECOMMUNICATIONS TECHNOLOGY SOLUTIONS COMPANY,VN,SAIGONTECHSOLUTIONS-AS-VN,78608,1,0,0,0,0,0,False
+140757,K2F Information Technology Company Limited,VN,FISYS-AS-VN,54093,1,3,1,0,0,0,True
+140758,Department of Science and Technology of Ca Mau province,VN,CAMAU-AS-VN,54093,1,1,1,0,0,0,True
+140759,Department of Information and Communications of Dak Lak Province,VN,STTTT-DAKLAK-VN,49862,1,3,2,0,0,0,True
+140760,INFINITY SOFTWARE CORPORATION,VN,INFINITY-AS-VN,78608,1,0,0,0,0,0,False
+140761,ALLIEX VIETNAM JOINT STOCK COMPANY,VN,ALLIEX-AS-VN,49862,1,2,2,0,0,0,True
+140762,Vinh Railway Signalling - Telecom Joint Stock Company,VN,VISITEC-AS-VN,49862,1,1,2,0,0,0,True
+140763,ITEXPERT Viet Nam Joint Stock Company,VN,ITEXPERT-AS-VN,78608,1,0,0,0,0,0,False
+140764,CSD Group Technology JSC.,VN,CSDGROUP-AS-VN,49862,1,2,2,0,0,0,True
+140765,VINANET Services Joint Stock Company,VN,VINANET-AS-VN,49862,1,3,2,0,0,0,True
+140766,FPT Smart Cloud Company Limited,VN,FPTCLOUD-AS-VN,8398,2,100,4,1,1,5,True
+140767,VINASOFT One Member Limited Company,VN,VINASOFT-AS-VN,78608,1,0,0,0,0,0,False
+140768,Department of Science and Technology Gia Lai,VN,GIALAI-VN,54093,1,1,1,0,0,0,True
+140769,INFORMATICS SOLUTION COMPANY LIMITED,VN,IFISOLUTION-AS-VN,54093,1,1,1,0,0,0,True
+140770,Digilife Vietnam Digital Services Company Limited,VN,DIGILIFE-AS-VN,10868,2,8,3,0,1,3,True
+140771,MXGROUP TECHNOLOGY JOINT STOCK COMPANY,VN,MXGROUP-AS-VN,78608,1,0,0,0,0,0,False
+140772,MXGROUP MEDICINE COMPANY LIMITED,VN,MEITC-AS-VN,78608,1,0,0,0,0,0,False
+140773,THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY,VN,THIENCO-AS-VN,78608,1,0,0,0,0,0,False
+140774,VIET NAM UNIFIED COMMUNICATIONS CORPORATION,VN,UCCORP-VN,54093,1,1,1,0,0,0,True
+140775,GLOBAL INFORMATICS TELECOMMUNICATIONS JOINT STOCK COMPANY,VN,ITCGLOBAL-AS-VN,30631,1,3,1,0,0,0,True
+140776,247 SCRAP TRADE JOINT STOCK COMPANY,VN,PHELIEU247-AS-VN,78608,1,0,0,0,0,0,False
+140777,VNCOIN247 CORPORATION,VN,VNCOIN247-AS-VN,78608,1,0,0,0,0,0,False
+140778,MINH HIEN SOLUTIONS COMPANY LIMITED,VN,MINHHIEN-VN,78608,1,0,0,0,0,0,False
+140779,VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED,VN,VINABISON-AS-VN,78608,1,0,0,0,0,0,False
+140780,THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY,VN,THAIAN-AS-VN,78608,1,0,0,0,0,0,False
+140781,VIET HOSTING COMPANY LIMITED,VN,VIETHOSTINGCO-AS-VN,54093,1,1,1,0,0,0,True
+140782,"424 De La Thanh, O Cho Dua Ward, Dong Da District, Ha Noi City",VN,TOANTHANG-VN,78608,1,0,0,0,0,0,False
+140783,NAMEDIA INTERNATIONAL TECHNOLOGY COMPANY LIMITED,VN,NAMEDIA-AS-VN,78608,1,0,0,0,0,0,False
+140784,VIET DIGITAL SOLUTIONS JOINT STOCK COMPANY,VN,GIAIPHAPSOVIET-VN,78608,1,0,0,0,0,0,False
+140785,WINCOMMERCE GENERAL COMMERCIAL SERVICES JOINT STOCK COMPANY,VN,DCWINCOMERCE-VN,78608,1,0,0,0,0,0,False
+140786,Department of Information and Communications of Thai Binh Province,VN,ICTTHAIBINH-AS-VN,78608,1,0,0,0,0,0,False
+140787,LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED,VN,LAMA-AS-VN,54093,1,2,1,0,0,0,True
+140788,Catiedu Online Training Academy Company Limited,VN,CATIEDU-AS-VN,78608,1,0,0,0,0,0,False
+140789,DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE JOINT STOCK COMPANY,VN,DIGITEL-AS-VN,54093,1,1,1,0,0,0,True
+140790,CLOUDCORE JOINT STOCK COMPANY,VN,CLOUDCOREJSC-AS-VN,78608,1,0,0,0,0,0,False
+140791,BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY,VN,BKH-AS-VN,54093,1,1,1,0,0,0,True
+140792,IT VILAS VIET NAM JOINT STOCK COMPANY,VN,VILAS-AS-VN,78608,1,0,0,0,0,0,False
+140793,VIET NAM GALAXY DIGITAL TECHNOLOGY COMPANY LIMITED,VN,GALAXYCLOUD-AS-VN,78608,1,0,0,0,0,0,False
+140794,Department of Science and Technology of Ha Tinh province,VN,ICTHATINH-VN,78608,1,0,0,0,0,0,False
+140795,,VN,AS140795,78608,1,0,0,0,0,0,False
+140796,"U14b-16a, 22 street, Tan Thuan, Tan Thuan Dong Ward, 7 District, HCM City",VN,SBDTELECOM-AS-VN,54093,1,1,1,0,0,0,True
+140797,EXA COMPANY LIMITED,VN,EXA-AS-VN,78608,1,0,0,0,0,0,False
+140798,"BAO NAM HOLDINGS., JSC",VN,BAONAMHOLDINGS-AS-VN,78608,1,0,0,0,0,0,False
+140799,VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY,VN,VNCLOUDTECH-AS-VN,39683,1,2,1,0,0,0,True
+140800,VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY,VN,VNCLOUDTECH-VN,78608,1,0,0,0,0,0,False
+140801,HARAVAN TECHNOLOGY CORPORATION,VN,HARAVAN-AS-VN,54093,1,1,1,0,0,0,True
+140802,"07-02A, Floor 7, Prime Center,53 Quang Trung, Nguyen Du Ward. Hai Ba Trung District, HN",VN,UNINATION-AS-VN,54093,1,1,1,0,0,0,True
+140803,Telecommunications Company Limited A,VN,VTA-VN,78608,1,0,0,0,0,0,False
+140804,JOBKEY JOINT STOCK COMPANY,VN,JOBKEY-AS-VN,78608,1,0,0,0,0,0,False
+140805,TIN VIET TECHNOLOGY ENGINEERING COMPANY LIMITED,VN,TINVIETTECH-AS-VN,78608,1,0,0,0,0,0,False
+140806,"PVS TELECOM CO.LTD.,",VN,PVS-AS-VN,48776,1,3,3,0,0,0,True
+140807,Nguyen Ngoc Thanh Trading Limited Company,VN,TND-AS-VN,20428,1,10,1,0,0,0,True
+140808,ONE PLUS INTERNATIONAL CORPORATION,VN,ONEPLUS-AS-VN,78608,1,0,0,0,0,0,False
+140809,Information Technology Center - Ministry of Home Affairs,VN,MOHA-VN,49862,1,1,2,0,0,0,True
+140810,Megacore Technology Company Limited,VN,MEGACORE-AS-VN,4307,5,54,1,0,4,5,True
+140811,VIET NAM INTERACTIVE TELEVISION JOINT STOCK COMPANY,VN,VTVLIVE-AS-VN,39683,1,3,1,0,0,0,True
+140812,"22B, Alley 57 Hoa Binh, Group 14, yen Nghia Ward, Ha Dong District, Ha Noi",VN,WEON-AS-VN,78608,1,0,0,0,0,0,False
+140813,DIGITAL SOLUTION AND TELECOMMUNICATIONS SERVICE JOINT STOCK COMPANY,VN,DSTEL-AS-VN,11165,2,7,3,0,1,3,True
+140814,"Floor 5, 255 Tran Dang Ninh, Dich Vong, Cau Giay District, Ha Noi City",VN,TECHCITYGROUP-AS-VN,54093,1,2,1,0,0,0,True
+140815,HTTVSERVER TECHNOLOGY COMPANY LIMITED,VN,HTTVSERVER-VN,15805,1,36,1,0,0,0,True
+140816,Internet Khong Trung Company,VN,INTERNETVENO-AS-VN,78608,1,0,0,0,0,0,False
+140817,ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY,VN,ODSONLINE-AS-VN,78608,1,0,0,0,0,0,False
+140818,D.I.C Viet Nam Technology Joint Stock Company,VN,VNDIC-AS-VN,54093,1,1,1,0,0,0,True
+140819,"4/2 Dinh Bo Linh, Group 6, Phu Cuong Ward, Thu Dau Mot City, Binh Duong",VN,HANA-AS-VN,78608,1,0,0,0,0,0,False
+140820,"P2702 A3 Ecolife Capitol - 58 To Huu, Me Tri Ward, Nam Tu Liem Distrct, Ha Noi City",VN,HEL-AS-VN,78608,1,0,0,0,0,0,False
+140821,"Nihao Data Management Co., Ltd",VN,CNCNIHAO-VN,78608,1,0,0,0,0,0,False
+140822,ANPHATIDC,VN,ANPHATIDC-VSIS-AS-VN,15253,1,50,2,0,0,0,True
+140823,"Group 7, THieu Khanh Ward, Thanh Hoa City, Thanh Hoa, Viet Nam",VN,VNCDATA-AS-VN,54093,1,1,1,0,0,0,True
+140824,VNIDC TECHNOLOGY COMPANY LIMITED,VN,VNIDC-AS-VN,54093,1,1,1,0,0,0,True
+140825,Thien Quang Digital technology joint stock company,VN,HOSTINGVIET-AS-VN,5868,3,113,2,0,2,3,True
+140826,INTER GROUP VIET NAM JOINT STOCK COMPANY,VN,INTERDATA-AS-VN,78608,1,0,0,0,0,0,False
+140827,AZ VIET NAM COMMUNICATIONS TECHNOLOGY COMPANY LIMITED,VN,DULIEUAZ-AS-VN,78608,1,0,0,0,0,0,False
+140828,Teknix Technology Joint Stock Company,VN,TEKNIX-AS-VN,54093,1,1,1,0,0,0,True
+140829,,VN,AS140829,54093,1,3,1,0,0,0,True
+140830,IDS VIET NAM SOLUTION CORPORATION,VN,IDS-CLOUDBASE-VN,78608,1,0,0,0,0,0,False
+140831,Data Center of Vietnam National University Ho Chi Minh City,VN,VNUDC-AS-VN,54093,1,1,1,0,0,0,True
+140832,"Vietnam F Tech., JSC",VN,FTECH-AS-VN,24197,1,13,1,0,0,0,True
+140833,INTERDATA JOINT STOCK COMPANY,VN,INTERCLOUD-AS-VN,78608,1,0,0,0,0,0,False
+140834,SAIGON TRAVEL SERVICE TRADING JOINT STOCK COMPANY,VN,SAIGONDATANET-AS-VN,78608,1,0,0,0,0,0,False
+140835,VAN TRANG PHARMACEUTICAL SUPPLY JOINT STOCK COMPANY,VN,VTPHAR-AS-VN,78608,1,0,0,0,0,0,False
+140836,PVS SOFTWARE JOINT STOCK COMPANY,VN,PVSSW-AS-VN,78608,1,0,0,0,0,0,False
+142025,VINFAST Production and Trading Joint Stock Company,VN,VINFAST-VN,,,,,,,,
+142055,,,,,,,,,,,
+142211,,,,,,,,,,,
+142241,,,,,,,,,,,
+142260,,,,,,,,,,,
+142277,Phong Phu Technology Infrastructure Company Limited,VN,PHONGPHUCLOUD-VN,78608,1,0,0,0,0,0,False
+142284,"Phoenix Inferno Technology Co., Ltd",VN,PHOENIXCLOUD-VN,78608,1,0,0,0,0,0,False
+142294,TELECOM TRADE AND SERVER LLC,VN,TTASL-AS-AP,54093,1,1,1,0,0,0,True
+142549,Thanh Huyen Technology Company Limited,VN,THANHHUYENCLOUD-VN,78608,1,0,0,0,0,0,False
+149007,DIGITOT COMPANY LIMITED,VN,DIGITOT-VN,,,,,,,,
+149062,TECHNOLOGY SOLUTION DATA ONLINE COMPANY LIMITED,VN,DATAONLINE247-AS-VN,54093,1,1,1,0,0,0,True
+149063,Information center - Ministry of Construction,VN,MOC-AS-VN,78608,1,0,0,0,0,0,False
+149064,CLOUDSTACK COMPANY LIMITED,VN,CLOUDSTACK-AS-VN,78608,1,0,0,0,0,0,False
+149065,MT GROUP COMPANY LIMITED,VN,MTGROUP-VN,54093,1,1,1,0,0,0,True
+149066,"ADNS CO., LTD",VN,ADNS-AS-VN,78608,1,0,0,0,0,0,False
+149067,AZ Clean Trading and Manufacturing Joint Stock Company,VN,AZCLEAN-AS-VN,78608,1,0,0,0,0,0,False
+149068,iNET software one member company limited,VN,INETSOFT-AS-VN,39683,1,1,1,0,0,0,True
+149069,Information and Communications Technology Company of Vietnam Electricity,VN,EVNICT-AS-VN,49862,1,2,2,0,0,0,True
+149070,Da Thanh Service and Trade Company Limited,VN,DATHANH-AS-VN,78608,1,0,0,0,0,0,False
+149071,"Phuong Tran Co., Ltd",VN,PHUONGTRAN-AS-VN,78608,1,0,0,0,0,0,False
+149072,VPSTTT Technology Company Limited,VN,VPSTTT-AS-VN,78608,1,0,0,0,0,0,False
+149073,"Hunasoft Technology Solution Consulting Co., Ltd",VN,HUNASOFT-AS-VN,78608,1,0,0,0,0,0,False
+149074,University of Medicine and Pharmacy at Ho Chi Minh City,VN,UMP-AS-VN,54093,1,3,1,0,0,0,True
+149075,Tan Hoang ViNa Company Limited,VN,TANHOANGVINA-AS-VN,78608,1,0,0,0,0,0,False
+149076,"Cloud Computing Server Solutions Co., Ltd",VN,CLOUDCOMPUTING-AS-VN,78608,1,0,0,0,0,0,False
+149077,Yen Viet Tourist Company Limited,VN,DULICHYENVIET-AS-VN,78608,1,0,0,0,0,0,False
+149078,VPSMMO TECHNOLOGY COMPANY LIMITED,VN,VPSMMO-AS-VN,23119,1,9,1,0,0,0,True
+149079,CUONG KHANG INFORMATICS COMPANY LIMITED,VN,CUONGKHANG-AS-VN,78608,1,0,0,0,0,0,False
+149080,"SHINHAN LIFE VIETNAM INSURANCE CO., LTD",VN,SHINHANLIFE-VN,49862,1,2,2,0,0,0,True
+149081,Eco Green Transport and Construction Investment Joint Stock Company,VN,GRCITY-VN,78608,1,0,0,0,0,0,False
+149082,NGOC MINH TECHNOLOGY JOINT STOCK COMPANY,VN,VOICECLOUD-VN,54093,1,1,1,0,0,0,True
+149083,VPSCLOUD 24H TECHNOLOGY AND SERVICES COMPANY LIMITED,VN,VPSCLOUD-AS-VN,78608,1,0,0,0,0,0,False
+149084,KBG VIET NAM REFRIGERATION ELECTRICAL ENGINEERING TRADING COMPANY LIMITED,VN,KBGVIETNAM-AS-VN,78608,1,0,0,0,0,0,False
+149085,E-DATA TECHNOLOGY SERVICE COMPANY LIMITED,VN,EDATA-AS-VN,54093,1,2,1,0,0,0,True
+149086,Digital Era Software Company Limited,VN,DERASOFT-AS-VN,78608,1,0,0,0,0,0,False
+149087,Hanoi University,VN,HANU-AS-VN,54093,1,1,1,0,0,0,True
+149088,INET Solution Corporation,VN,INETSOLUTION-AS-VN,78608,1,0,0,0,0,0,False
+149089,CLOUDFLY CORPORATION,VN,CLOUDFLY-VN,24197,1,3,1,0,0,0,True
+149090,ZOZO SOFTWARE COMPANY LIMITED,VN,ZOZO-VN,78608,1,0,0,0,0,0,False
+149091,Ecofly Joint Stock Company,VN,ECOFLY-VN,78608,1,0,0,0,0,0,False
+149092,UNICA ACADEMY JOINT STOCK COMPANY,VN,UNICA-VN,78608,1,0,0,0,0,0,False
+149093,VPS VIET NAM COMPANY LIMITED,VN,VPSVIETNAM-VN,78608,1,0,0,0,0,0,False
+149094,THM REFRIGERATION TECHNICIANS COMPANY LIMITED,VN,THMREFRIGERATION-VN,78608,1,0,0,0,0,0,False
+149095,TRINH VIET DIGITAL TECHNOLOGY COMPANY LIMITED,VN,TRINHVIET-VN,78608,1,0,0,0,0,0,False
+149096,INVESTMENT AND DEVELOPMENT OF NATIONAL E-PROCUREMENT SYSTEM COMPANY LIMITED,VN,IDNES-VN,48776,1,3,3,0,0,0,True
+149097,FASTLY NETWORK SOLUTION COMPANY LIMITED,VN,FASTLY-VN,78608,1,0,0,0,0,0,False
+149098,VIETNAM DIGITAL INFRASTRUCTURE JOINT STOCK COMPANY,VN,HATANGSO-VN,54093,1,1,1,0,0,0,True
+149099,HUNG THINH GROUP CORPORATION,VN,HUNGTHINH-VN,67211,1,1,1,0,0,0,True
+149100,SMARTMIND SECURITIES JOINT STOCK COMPANY,VN,SMDS-VN,49862,1,1,2,0,0,0,True
+149101,BKCLOUD COMPANY LIMITED,VN,BKCLOUDCSKH-VN,54093,1,1,1,0,0,0,True
+149102,KHANH CHI ICT COMPANY LIMITED,VN,KHANHCHIICT-VN,54093,1,1,1,0,0,0,True
+149103,BACH KIM HNT COMPANY LIMITED,VN,BKHNT-VN,78608,1,0,0,0,0,0,False
+149104,UNI JOINT STOCK COMPANY,VN,UNI-VN,78608,1,0,0,0,0,0,False
+149105,IPTP NETWORKS DA NANG COMPANY LIMITED,VN,IPTP-VN,30198,1,7,2,0,0,0,True
+149106,VIETNAM SERVER SOLUTION COMPANY LIMITED,VN,VNVPSVN-VN,78608,1,0,0,0,0,0,False
+149107,TRUMVPS COMPANY LIMITED,VN,TRUMVPS-VN,2418,11,151,1,0,10,11,True
+149108,BAO LONG MANAGEMENT CONSULTANT COMPANY LIMITED,VN,BSSVIET-VN,78608,1,0,0,0,0,0,False
+149109,GIAO HANG TIET KIEM JOINT STOCK COMPANY,VN,GHTK-VN,49862,1,2,2,0,0,0,True
+149110,CLOUD4VN DIGITAL TECHNOLOGY COMPANY LIMITED,VN,CLOUD4VN-VN,78608,1,0,0,0,0,0,False
+149111,TEDEV TECHNOLOGICAL DEVELOPMENT COMPANY LIMITED,VN,TEDEV-VN,54093,1,1,1,0,0,0,True
+149112,TTK VIET NAM EDUCATION TECHNOLOGY JOINT STOCK COMPANY,VN,MCLASSVN-VN,78608,1,0,0,0,0,0,False
+149113,ODB VIET NAM COMPANY LIMITED,VN,ODB-VN,39683,1,4,1,0,0,0,True
+149114,NVK TECHNOLOGY AND SERVICES COMPANY LIMITED,VN,NVK-VN,78608,1,0,0,0,0,0,False
+149115,KINGBOND MIEN TRUNG COMPANY LIMITED,VN,KINGBOND-VN,78608,1,0,0,0,0,0,False
+149116,National Hospital of Tropical Diseases,VN,NHIETDOI-HOSPITAL-VN,54093,1,1,1,0,0,0,True
+149117,VTC MOBILE SERVICES JOINT STOCK COMPANY,VN,VTCMOBILE-VN,25294,1,6,1,0,0,0,True
+149118,3S Viet Nam Technology Joint Stock Company,VN,THREESTECH-VN,54093,1,1,1,0,0,0,True
+149119,DHD TELECOM COMPANY LIMITED,VN,DHDTELECOM-VN,78608,1,0,0,0,0,0,False
+149120,BLUE TECHNOLOGY AND INVESTMENT COMPANY LIMITED,VN,BLUETECH-VN,48776,1,2,3,0,0,0,True
+149121,Department of Science and Technology of Lai Chau province,VN,LAICHAU-VN,78608,1,0,0,0,0,0,False
+149122,3T SYSTEM SOLUTIONS COMPANY LIMITED,VN,THREETSS-VN,78608,1,0,0,0,0,0,False
+149123,VU GIA TECHNOLOGY INVESTMENT JOINT STOCK COMPANY,VN,ITCLOUD-VN,54093,1,1,1,0,0,0,True
+149124,WEBPX SOFTWARE COMPANY LIMITED,VN,THANHPHAT-VN,54093,1,1,1,0,0,0,True
+149125,4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED,VN,DV4S-VN,54093,1,1,1,0,0,0,True
+149126,,VN,AS149126,78608,1,0,0,0,0,0,False
+149127,Bac Giang Department of Information and Communications,VN,BACGIANG-VN,49862,1,1,2,0,0,0,True
+149128,Prosperity and Development Joint Stock Commercial Bank,VN,PGBANK-VN,54093,1,3,1,0,0,0,True
+149129,Vietnam Government Portal,VN,CPVN-VN,39683,1,1,1,0,0,0,True
+149130,TEKNIX CLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY,VN,TEKNIXCLOUD-VN,54093,1,2,1,0,0,0,True
+149131,Optimal Agency LLC,VN,SOCLUA-VN,54093,1,2,1,0,0,0,True
+149132,GREENCLOUD LIMITED LIABILITY COMPANY,VN,GREENCLOUD-VN,78608,1,0,0,0,0,0,False
+149133,MOC LAM TRADING AND SERVICES JOINT STOCK COMPANY,VN,MOCLAMESOUL-VN,78608,1,0,0,0,0,0,False
+149134,FUTE COMMERCIAL AND SERVICES COMPANY LIMITED,VN,FUTE-VN,78608,1,0,0,0,0,0,False
+149135,SAPO TECHNOLOGY JOINT STOCK COMPANY,VN,SAPO-VN,54093,1,2,1,0,0,0,True
+149136,AALO.VN DIGITAL TECHNOLOGY JOINT STOCK COMPANY,VN,AALO-VN,54093,1,1,1,0,0,0,True
+149137,TAN THANH AN INTERNATIONAL TRADE DEVELOPMENT COMPANY LIMITED,VN,TANTHANHAN-VN,25121,1,5,2,0,0,0,True
+149138,"RUBIK Trading Consultancy Service One Member Co., Ltd",VN,RUBIK-VN,78608,1,0,0,0,0,0,False
+149139,VGP JOINT STOCK COMPANY,VN,VGP-VN,39683,1,4,1,0,0,0,True
+149140,VIETSPEED SERVICE COMPANY LIMITED,VN,VIETSPEED-VN,78608,1,0,0,0,0,0,False
+149141,VAN ARCHITECTURE AND CONSTRUCTION COMPANY LIMITED,VN,VAN-VN,78608,1,0,0,0,0,0,False
+149142,Vina Securities Joint Stock Company,VN,VNSC-VN,49862,1,1,2,0,0,0,True
+149143,MONA MEDIA COMPANY,VN,MONA-MEDIA-VN,54093,1,1,1,0,0,0,True
+149144,VIHAT TECHNOLOGY COMPANY LIMITED,VN,VIHAT-VN,78608,1,0,0,0,0,0,False
+149145,VNETWORK TELECOMMUNICATION SERVICES COMPANY LIMITED,VN,VNETWORK-TELECOM-VN,54093,1,2,1,0,0,0,True
+149146,"VNETKIWON SECURITY CO., LTD",VN,VNETKIWON-VN,67211,1,1,1,0,0,0,True
+149147,GOFIBER SOFTWARE TECHNOLOGY COMPANY LIMITED,VN,GOFIBER-SOFTWARE-VN,19100,1,14,1,0,0,0,True
+149148,"Phu Hai Computer Co., Ltd",VN,PHUHAIPC-VN,54093,1,1,1,0,0,0,True
+149149,INTER BOOKING247 LIMITED COMPANY,VN,INTERBOOKING247-VN,54093,1,1,1,0,0,0,True
+149150,THDATA COMPANY LIMITED,VN,THDATA-VN,54093,1,1,1,0,0,0,True
+149151,VNSUN CLOUD COMPANY LIMITED,VN,VNSUNCLOUD-VN,54093,1,1,1,0,0,0,True
+149152,Onet IDC Company,VN,ONETIDC-VN,78608,1,0,0,0,0,0,False
+149153,Thanh Hoa Information and Communication Technology Center,VN,TTCNTT-THANHHOA-VN,78608,1,0,0,0,0,0,False
+149154,Department of Science and Technology of Lao Cai province,VN,LAOCAI-VN,49862,1,1,2,0,0,0,True
+149155,SUNCLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY,VN,SUNCLOUD-VN,78608,1,0,0,0,0,0,False
+149156,Bac Ninh Department of Information and Communications,VN,BACNINH-VN,49862,1,1,2,0,0,0,True
+149157,Digital Transformation Center - An Giang Department of Science and Technology,VN,DXAG-VN,49862,1,1,2,0,0,0,True
+149158,VietNam Eastern Sun Joint Stock Company,VN,ESVN-VN,78608,1,0,0,0,0,0,False
+149159,Viet Nam Academy of Science and Technology,VN,VAST-VN,54093,1,3,1,0,0,0,True
+149160,Department of Science and Technology of Can Tho City,VN,CANTHO-VN,49862,1,1,2,0,0,0,True
+149161,MEGA TECHNOLOGY COMPANY LIMITED,VN,MEGA-VN,39683,1,3,1,0,0,0,True
+150323,Dak Lak Province Smart City Monitoring and Operation Center,VN,IOCDAKLAK-VN,,,,,,,,
+150344,,,,,,,,,,,
+150813,Thoi MMO Company Limited,VN,MINHTHOIPC-VN,78608,1,0,0,0,0,0,False
+150814,VNIS JOINT STOCK COMPANY,VN,TVAN-VN,54093,1,2,1,0,0,0,True
+150815,VUONG THANG VTDIGITAL COMPANY LIMITED,VN,VTDIGITAL-VN,78608,1,0,0,0,0,0,False
+150816,CAMERA-VIET TECHNOLOGY SOLUTIONS COMPANY LIMITED,VN,CVCO-VN,78608,1,0,0,0,0,0,False
+150817,MIND TECHNOLOGY LIMITED LIABILITY COMPANY,VN,MIND-VN,78608,1,0,0,0,0,0,False
+150818,HYPERNODE ONE MEMBER COMPANY LIMITED,VN,HYPERCORE-VN,78608,1,0,0,0,0,0,False
+150819,ALGOGLOBAL COMPANY LIMITED,VN,ALGOGLOBAL-VN,78608,1,0,0,0,0,0,False
+150820,LIENVPS TECHNOLOGY COMPANY LIMITED,VN,LIENVPS-VN,19042,1,14,3,0,0,0,True
+150821,HD TECHNICAL INFRASTRUCTURE CONSTRUCTION COMPANY LIMITED,VN,CTKYTHUATHD-VN,54093,1,1,1,0,0,0,True
+150822,Department of Science and Technology of Tuyen Quang province,VN,TUYENQUANG-VN,78608,1,0,0,0,0,0,False
+150823,FAST SOFTWARE JOINT STOCK COMPANY,VN,FAST-VN,54093,1,1,1,0,0,0,True
+150824,Premier Oil Viet Nam Offshore B.V,VN,POVO-VN,60658,1,1,2,0,0,0,True
+150825,CODETAY SOFTWARE LIMITED LIABILITY COMPANY,VN,CODETAY-VN,78608,1,0,0,0,0,0,False
+150826,VR VIET NAM COMPANY LIMITED,VN,VR-VN,78608,1,0,0,0,0,0,False
+150827,MUOI LONG COMPANY LIMITED,VN,MUOILONG-VN,78608,1,0,0,0,0,0,False
+150828,VMON CLOUD COMPANY LIMITED,VN,VMONCLOUD-VN,39683,1,4,1,0,0,0,True
+150829,DIGITAL NETWORK CLOUD COMPANY LIMITED,VN,DNCLOUD-VN,78608,1,0,0,0,0,0,False
+150830,CHIEU MINH COMPANY LIMITED,VN,CMINH-VN,78608,1,0,0,0,0,0,False
+150831,JACCS international vietnam finance company limited,VN,JIVF-VN,78608,1,0,0,0,0,0,False
+150832,NTNT COMPANY LIMITED,VN,NTNT-VN,78608,1,0,0,0,0,0,False
+150833,TUAN LINH 88 COMPANY LIMITED,VN,CTTUANLINH88-VN,78608,1,0,0,0,0,0,False
+150834,IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED,VN,IDATA-VN,78608,1,0,0,0,0,0,False
+150835,MAY CHU SAI GON SERVICE TRADING COMPANY LIMITED,VN,MCSG-VN,54093,1,1,1,0,0,0,True
+150836,EPAY SERVICES JOINT STOCK COMPANY,VN,EPAYJSCNET-VN,49862,1,3,2,0,0,0,True
+150837,SAOVANG TELECOMMUNICATION INFRASTRUCTURE JOINT STOCK COMPANY,VN,SVTELECOM-VN,36223,1,6,2,0,0,0,True
+150838,HA SON TECHNOLOGY ONE MEMBER LIMITED COMPANY,VN,HASONTECH-VN,54093,1,1,1,0,0,0,True
+150839,THIEN TUAN SOLUTION AND TECHNOLOGY COMPANY LIMITED,VN,THIENTUANSTECH-VN,78608,1,0,0,0,0,0,False
+150840,HVT TM AND XNK COMPANY LIMITED,VN,HVT-VN,78608,1,0,0,0,0,0,False
+150841,Department of Science and Technology of Quang Ngai province,VN,ICTQUANGNGAI-VN,78608,1,0,0,0,0,0,False
+150842,VIMEDIMEX GROUP PHARMACY CORPORATION,VN,VMD-VN,67211,1,1,1,0,0,0,True
+150843,PHU MINH TECHNICAL SERVICE TRADING COMPANY,VN,PHUMINH-VN,78608,1,0,0,0,0,0,False
+150844,VIN8 TECHNOLOGY INVESTMENT COMPANY LIMITED,VN,VIN8-VN,78608,1,0,0,0,0,0,False
+150845,DIDOTEK COMPANY LIMITED,VN,DIDOTEK-VN,78608,1,0,0,0,0,0,False
+150846,"Room 1508, 15th Floor, Vincom Center Building, 72 Le Thanh Ton, Ben Nghe Ward, District 1, Ho Chi Minh City, Vietnam",VN,AXYS-VN,54093,1,1,1,0,0,0,True
+150847,DIGITAL SERVER COMPANY LIMITED,VN,MAYCHUSO-VN,78608,1,0,0,0,0,0,False
+150848,VINAF GLOBAL COMPANY LIMITED,VN,VINAG-VN,78608,1,0,0,0,0,0,False
+150849,Pho Web Technology Joint Stock Company,VN,PHOWEB-VN,78608,1,0,0,0,0,0,False
+150850,ZINVPS COMPANY LIMITED,VN,ZINVPS-VN,54093,1,1,1,0,0,0,True
+150851,DXT DIGITAL TRANSFORMATION TECHNOLOGY JOINT STOCK COMPANY,VN,DXT-VN,78608,1,0,0,0,0,0,False
+150852,BIGZ TECHNOLOGY JOINT STOCK COMPANY,VN,BIGZ-VN,78608,1,0,0,0,0,0,False
+150853,CLOUD VIET ONE MEMBER COMPANY LIMITED,VN,CLOVIET-VN,78608,1,0,0,0,0,0,False
+150854,Diginext Group Joint Stock Company,VN,DIGINEXT-VN,49862,1,2,2,0,0,0,True
+150855,MAY SOC COMPANY LIMITED,VN,MAYSOC-VN,39683,1,4,1,0,0,0,True
+150856,"VNG DATA CENTER CO., LTD",VN,VNGDC-VN,54093,1,1,1,0,0,0,True
+150857,JB SECURITIES VIETNAM COMPANY LIMITED,VN,JBSV-VN,49862,1,1,2,0,0,0,True
+150858,"VIET SERVER TECHNOLOGY SOLUTIONS CO.,LTD",VN,VIETMAYCHU-VN,78608,1,0,0,0,0,0,False
+150859,SANDCLOCK SERVICE TRADING COMPANY LIMITED,VN,SANDCLOCK-VN,22850,1,12,1,0,0,0,True
+150860,"JETCLOUD TECHNOLOGY CO., LTD",VN,JETCLOUD-VN,78608,1,0,0,0,0,0,False
+150861,POWERNET COMPANY LIMITED,VN,POWERNET-VN,30631,1,2,1,0,0,0,True
+150862,VPSTTT COMPUTER COMPANY LIMITED,VN,MAYTINHVPSTTT-VN,17325,1,20,2,0,0,0,True
+150863,HUY NGUYEN TECHNOLOGY SOLUTION JOINT STOCK COMPANY,VN,HNS-VN,78608,1,0,0,0,0,0,False
+150864,VIET NAM VNNS TECHNOLOGIES JOINT STOCK COMPANY,VN,VNNS-VN,67211,1,1,1,0,0,0,True
+150865,MMO VIET NAM SOFTWARE COMPANY LIMITED,VN,MMOSOFT-VN,78608,1,0,0,0,0,0,False
+150866,FINTECH VIETNAM CREDIT INFORMATION JOINT STOCK COMPANY,VN,FCBV-VN,48405,1,2,4,0,0,0,True
+150867,LP TECHNOLOGY ELECTRONIC COMMERCE COMPANY LIMITED,VN,LPTECH-VN,78608,1,0,0,0,0,0,False
+150868,ADVIETNAM ADVERTISEMENT MEDIA COMPANY LIMITED,VN,ADVIETNAM-VN,78608,1,0,0,0,0,0,False
+150869,National Citizen Commercial Joint stock bank,VN,NCB-VN,36223,1,4,2,0,0,0,True
+150870,"KIM NGAN TECHNOLOGY TRADING SERVICES CO., LTD",VN,KIMNGAN-VN,78608,1,0,0,0,0,0,False
+150871,N C T CORPORATION,VN,VNETWORKK-NCT-VN,78608,1,0,0,0,0,0,False
+150872,TECHCLOUD SOLUTION JOINT STOCK COMPANY,VN,TECHCLOUD-VN,67211,1,1,1,0,0,0,True
+150873,THUONGCLOUD COMPANY LIMITED,VN,TCTH-VN,54093,1,1,1,0,0,0,True
+150874,XOR BPO JOINT STOCK COMPANY,VN,XOR-CLOUD-VN,78608,1,0,0,0,0,0,False
+150875,XOR BPO JOINT STOCK COMPANY,VN,XOR-BPO-VN,78608,1,0,0,0,0,0,False
+150876,MAILAND TECHNOLOGY TRADING SERVICES COMPANY LIMITED,VN,MAILAN-VN,78608,1,0,0,0,0,0,False
+150877,HOI LOC TRADE SERVICES COMPANY LIMITED,VN,HOILOC-VN,78608,1,0,0,0,0,0,False
+150878,V9 TECHNOLOGY JOINT STOCK COMPANY,VN,V9-VN,78608,1,0,0,0,0,0,False
+150879,WIX CLOUD COMPANY LIMITED,VN,WIXCLOUD-VN,78608,1,0,0,0,0,0,False
+150880,FAST BYTE FAST DATA COMPANY LIMITED,VN,FASTBYTE-VN,78608,1,0,0,0,0,0,False
+150881,INTERSTELLAR DIGITAL TECHNOLOGY COMPANY LIMITED,VN,IDT-NET-VN,54093,1,3,1,0,0,0,True
+150882,XKA TECHNOLOGY MTV COMPANY LIMITED,VN,XKA-VN,54093,1,1,1,0,0,0,True
+150883,Department of Information and Communication of Gia Lai province,VN,ICTGIALAI-VN,78608,1,0,0,0,0,0,False
+150884,ANZIX Joint Stock Company,VN,NEWVINA-VN,54093,1,1,1,0,0,0,True
+150885,DA THANH TELECOMMUNICATION COMPANY LIMITED,VN,VTDT-VN,78608,1,0,0,0,0,0,False
+150886,VN CLOUD ONE MEMBER COMPANY LIMITED,VN,VNCLOUD-VN,78608,1,0,0,0,0,0,False
+150887,"NGOC HA TECHNOLOGY SERVICES CO., LTD",VN,NGOCHACLOUD-VN,54093,1,1,1,0,0,0,True
+150888,"CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGY, Thai Nguyen Department of Information and Communications",VN,ICT-THAINGUYEN,49862,1,3,2,0,0,0,True
+150889,MONA HOST LIMITED,VN,MONA-HOST-VN,78608,1,0,0,0,0,0,False
+150890,VETC ELECTRONIC TOLL COLLECTION COMPANY LIMITED,VN,VECTN-VN,49862,1,3,2,0,0,0,True
+150891,INFOGATE TECHNOLOGY COMPANY LIMITED,VN,INFOGATE-VN,78608,1,0,0,0,0,0,False
+150892,GOLD VPS LIMITED,VN,ThuTranPC-VN,78608,1,0,0,0,0,0,False
+150893,Department of Information and Communications of Nghe An province,VN,NGHEAN-VN,78608,1,0,0,0,0,0,False
+150894,SON NGUYEN GROUP CORPORATION,VN,SONNGUYEN-VN,54093,1,1,1,0,0,0,True
+150895,EZ TECHNOLOGY COMPANY LIMITED,VN,EZTECH-VN,4807,4,132,2,0,3,4,True
+150896,HUNGCLOUD COMPANY LIMITED,VN,HUNGCL-VN,54093,1,1,1,0,0,0,True
+150897,AZPLAY TECHNOLOGY COMPANY LIMITED,VN,AZPLAY-VN,78608,1,0,0,0,0,0,False
+150898,VINASITE VIET NAM COMPANY LIMITED,VN,VINASITE-VN,78608,1,0,0,0,0,0,False
+150899,HTSG HIGH TECHNOLOGY SERVICES AND MEDIA JOINT STOCK COMPANY,VN,HTSG-VN,78608,1,0,0,0,0,0,False
+150900,VPSMMO COMPANY LIMITED,VN,VPSMMOCLOUD-VN,54093,1,1,1,0,0,0,True
+150901,NEXTPAY DIGITAL TRANSFORMATION GROUP JOINT STOCK COMPANY,VN,NEXTPAY-VN,67211,1,1,1,0,0,0,True
+150902,BIDATA MEDIA AND TECHNOLOGY JOINT STOCK COMPANY,VN,BIDATA-VN,78608,1,0,0,0,0,0,False
+150903,ROYAL TECHNOLOGY MEDIA JOINT STOCK COMPANY,VN,HG-VN,78608,1,0,0,0,0,0,False
+150904,BWF Technology Company Limited,VN,BWF-VN,78608,1,0,0,0,0,0,False
+150905,CENTRAL ELECTRICITY INFORMATION TECHNOLOGY COMPANY - CENTRAL REGIONAL ELECTRICITY CORPORATION,VN,EVNCPC-VN,49862,1,3,2,0,0,0,True
+150906,NOVA SQUARE LIMITED,VN,NVSQ-VN,78608,1,0,0,0,0,0,False
+150907,GREEN SYSTEM SOLUTIONS COMPANY LIMITED,VN,GRS-VN,78608,1,0,0,0,0,0,False
+150908,LAM TRAN SOFTWARE DEVELOPMENT COMPANY LIMITED,VN,LTSD-VN,78608,1,0,0,0,0,0,False
+150909,BTT TECHNOLOGY SERVICES COMPANY LIMITED,VN,BTTHOST-VN,78608,1,0,0,0,0,0,False
+150910,MODATEK LIMITED COMPANY,VN,MODATEK-VN,78608,1,0,0,0,0,0,False
+150911,Travelaire Limited Liability Company,VN,TRAVELAIRE-VN,54093,1,1,1,0,0,0,True
+150912,TEKAWAY LIMITED COMPANY,VN,TEKAWAY-VN,78608,1,0,0,0,0,0,False
+151677,SAFE365 JOINT STOCK COMPANY,VN,SAFE365NET-VN,78608,1,0,0,0,0,0,False
+151851,V9 ENTERPRISE SOLUTION JOINT STOCK COMPANY,VN,V9ERP-VN,78608,1,0,0,0,0,0,False
+151852,FUTE JOINT STOCK COMPANY,VN,WEB2M-VN,54093,1,1,1,0,0,0,True
+151853,GIZA NETWORK LIMITED,VN,GIZANETWORK-VN,78608,1,0,0,0,0,0,False
+151854,AHOST COMPANY LIMITED,VN,AHOST-VN,78608,1,0,0,0,0,0,False
+151855,SOUTH TELECOMMUNICATIONS SOFTWARE JOINT STOCK COMPANY,VN,SOUTH-VN,49862,1,2,2,0,0,0,True
+151856,LITESPEED TECHNOLOGY COMPANY LIMITED,VN,LITESPEED-COM-VN,78608,1,0,0,0,0,0,False
+151857,NIVA GROUP JONT STOCK COMPANY,VN,NIVACLOUD-VN,78608,1,0,0,0,0,0,False
+151858,INTERDIGI JOINT STOCK COMPANY,VN,INTERDIGI-VN,16087,1,33,3,0,0,0,True
+151859,CLOUDVIET COMPANY LIMITED,VN,CLOUDVIETNAMVN-VN,78608,1,0,0,0,0,0,False
+151860,Department of Information and Communications of Hai Duong province,VN,HAIDUONG-VN,78608,1,0,0,0,0,0,False
+151861,STB TECHNOLOGY COMPANY LIMITED,VN,STBCLOUDZ-VN,78608,1,0,0,0,0,0,False
+151862,NGOC TU NETWORK SOLUTIONS AND TECHNOLOGY COMPANY LIMITED,VN,NGOCTU-VN,78608,1,0,0,0,0,0,False
+151863,PSG JOINT STOCK COMPANY,VN,PSG-VN,32281,1,3,1,0,0,0,True
+151864,TUAN VU SERVICES TECHNOLOGY COMPANY LIMITED,VN,TUANVU-VN,78608,1,0,0,0,0,0,False
+151865,"ZENTECH Technology Solutions Co., Ltd",VN,ZENTECH-VN,39683,1,2,1,0,0,0,True
+151866,DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED,VN,DAIHUU-VN,49862,1,2,2,0,0,0,True
+151867,Department of Science and Technology of Dong Nai province,VN,DONGNAI-VN,54093,1,2,1,0,0,0,True
+151868,,VN,AS151868,39683,1,3,1,0,0,0,True
+151869,DLC DIGITAL TECHNOLOGY SOLUTION INVESTMENT LIMITED LIABILITY COMPANY,VN,DLC-VN,78608,1,0,0,0,0,0,False
+151870,Department of Radio Frequency - Ministry of Information and Communications,VN,CUCTANSO-BTTTT-VN,49862,1,2,2,0,0,0,True
+151871,DANH TUAN TECHNOLOGY COMPANY LIMITED,VN,DANHTUAN-VN,78608,1,0,0,0,0,0,False
+151872,CLOUD DATA TECHNOLOGY AND COMMUNICATION COMPANY LIMITED,VN,EDIGI-VN,25728,1,7,2,0,0,0,True
+151873,TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED,VN,TOTHOST-VN,54093,1,1,1,0,0,0,True
+151874,BIM VIETNAM COMMUNITY COMPANY LIMITED,VN,CDB-VN,78608,1,0,0,0,0,0,False
+151875,TAFU ENERGY COMPANY LIMITED,VN,TAFUVPS-VN,78608,1,0,0,0,0,0,False
+151876,"BLUE SKY NETWORK INFRASTRUCTURE SOLUTIONS CO., LTD",VN,BNIX-VN,78608,1,0,0,0,0,0,False
+151877,ANH SAO TECHNOLOGY TRAINING CONSULTANT JOINT STOCK COMPANY,VN,ANHSAO-VN,78608,1,0,0,0,0,0,False
+151878,EDC INTERNATIONAL TRADING COMPANY LIMITED,VN,EDC-VN,78608,1,0,0,0,0,0,False
+151879,GLOBAL TECHNOLOGY SOLUTIONS VIETNAM JOINT STOCK COMPANY,VN,GTSVN-VN,78608,1,0,0,0,0,0,False
+151880,BCONNECT TECHNOLOGY AND SOLUTION JOINT STOCK COMPANY,VN,BCONNECT-VN,78608,1,0,0,0,0,0,False
+151881,GREEN LIGHT TECHNOLOGY SOLUTIONS COMPANY LIMITED,VN,SANGXANH-VN,78608,1,0,0,0,0,0,False
+151882,CLOUDME COMPANY LIMITED,VN,CLOUDME-VN,78608,1,0,0,0,0,0,False
+151883,LIEN CLOUD TECHNOLOGY COMPANY LIMITED,VN,LIENCLOUD-VN,78608,1,0,0,0,0,0,False
+151884,STNC SERVICE CONSULTANCE COMPANY LIMITED,VN,STNC-VN,78608,1,0,0,0,0,0,False
+151885,DATA SECURITY SOLUTIONS LIMITED,VN,ANTOANDULIEU-VN,78608,1,0,0,0,0,0,False
+151886,Department of Science and Technology of Vinh Long province,VN,ICTVL-VN,78608,1,0,0,0,0,0,False
+151887,VCORE COMPANY LIMITED,VN,VCOREINFO-VN,78608,1,0,0,0,0,0,False
+151888,SWIFT INVESTMENT AND TECHNOLOGY COMPANY LIMITED,VN,SWIFTTECH-VN,78608,1,0,0,0,0,0,False
+151889,HAI NAM TECH JOINT STOCK COMPANY,VN,HAINAMTECH-VN,78608,1,0,0,0,0,0,False
+151890,HAWK HOST COMPANY LIMITED,VN,UCOM-VN,78608,1,0,0,0,0,0,False
+151891,K-SERVER NETWORK SERVICES COMPANY LIMITED,VN,KSERVER-VN,78608,1,0,0,0,0,0,False
+151892,NEWCLOUD DIGITAL TECHNOLOGY COMPANY LIMITED,VN,NEWCLOUD-VN,78608,1,0,0,0,0,0,False
+151893,DIGI SUCCESS SERVICE COMPANY LIMITED,VN,SUCCESS-VN,78608,1,0,0,0,0,0,False
+151894,Department of Information and Communications of Hai Phong City,VN,HAIPHONG-VN,78608,1,0,0,0,0,0,False
+151895,MYVPS TECHNOLOGY COMPANY LIMITED,VN,MYVPS-VN,78608,1,0,0,0,0,0,False
+151896,ETEL TECHNOLOGY COMPANY LIMITED,VN,ETEL-VN,78608,1,0,0,0,0,0,False
+151897,QUOC VUONG TECHNOLOGY COMPANY LIMITED,VN,QCV-VN,78608,1,0,0,0,0,0,False
+151898,MEGAHOST TECHNOLOGY COMPANY LIMITED,VN,MEGAHOSTBIZ-VN,78608,1,0,0,0,0,0,False
+151899,EDC TECHNOLOGY JOINT STOCK COMPANY,VN,EDCTECH-VN,78608,1,0,0,0,0,0,False
+151900,METECH TECHNOLOGY AND SERVICES COMPANY LIMITED,VN,METECH-VN,78608,1,0,0,0,0,0,False
+151901,HAO QUANG VIET SOFTWARE COMPANY LIMITED,VN,HQV-VN,54093,1,1,1,0,0,0,True
+151902,Center for Information Technology Application - Vietnam Academy of Social Sciences,VN,VASS-VN,78608,1,0,0,0,0,0,False
+151903,epartment of Science and Technology of Quang Tri province,VN,ICTQUANGTRI-VN,54093,1,2,1,0,0,0,True
+151904,TRAN PHAT CONSTRUCTION EQUIPMENT COMPANY LIMITED,VN,EZTTP-VN,78608,1,0,0,0,0,0,False
+151905,PHO TUE SOFTWARE AND TECHNOLOGY SOLUTIONS JOINT STOCK COMPANY,VN,PHOTUESOFTWARE-VN,78608,1,0,0,0,0,0,False
+151906,ICODE DIGITAL DATA COMPANY LIMITED,VN,ICODEVN-VN,78608,1,0,0,0,0,0,False
+151907,ECOSTA LIMITED,VN,ECOSTA-VN,78608,1,0,0,0,0,0,False
+151908,MAY CHU VIET SOLUTIONS CORPORATION,VN,MAYCHUVIET-VN,54093,1,2,1,0,0,0,True
+151909,NGUYEN HAU TP COMPANY LIMITED,VN,NGUYENHAU-VN,78608,1,0,0,0,0,0,False
+151910,VIETNAM TELECOMMUNICATION COMPUTING JOINT STOCK COMPANY,VN,VTVN-VN,78608,1,0,0,0,0,0,False
+151911,VERICHAINS LIMITED,VN,VERICHAINS-VN,54093,1,3,1,0,0,0,True
+151912,Tranco Technology Company Limited,VN,TRANCO-VN,78608,1,0,0,0,0,0,False
+151913,Ha Giang province Department of Information and Communications,VN,HAGIANG-VN,54093,1,2,1,0,0,0,True
+151914,Quoc Tin Cyber Technology Company Limited,VN,CLOUDJ-NET-VN,67211,1,1,1,0,0,0,True
+151915,Tran Thi Data and Technology Company Limited,VN,TRANTHI-VN,78608,1,0,0,0,0,0,False
+151916,TPT Technology and Electronics Company Limited,VN,DIENTUTPT-VN,78608,1,0,0,0,0,0,False
+151917,Jupiter Media Joint Stock Company,VN,JUPITERMEDIA-VN,54093,1,1,1,0,0,0,True
+151918,VPS PA Company Limited,VN,VPSPA-VN,78608,1,0,0,0,0,0,False
+151919,CLOUD WP Technology One Member LLC,VN,CLOUDWP-VN,78608,1,0,0,0,0,0,False
+151920,DDL Digital Technology Solutions Company Limited,VN,MOBITENET-VN,78608,1,0,0,0,0,0,False
+151921,"DIGI GROUP CO.,LTD",VN,DIGIDATA-VN,78608,1,0,0,0,0,0,False
+151922,Vietnam National Credit Information,VN,CICB-VN,49862,1,1,2,0,0,0,True
+151923,BC CARD Vietnam Company Limited,VN,BCCARD-VN,49862,1,1,2,0,0,0,True
+151924,NDD Digital Technology Company Limited,VN,NDD-VN,78608,1,0,0,0,0,0,False
+151925,"Technology NHD Co., Ltd",VN,NHD-VN,78608,1,0,0,0,0,0,False
+151926,TH Technology and Data Mining Company Limited,VN,THCLOUD-VN,78608,1,0,0,0,0,0,False
+151927,Truong Dai Digital Technology Company Limited,VN,TRDAI-VN,78608,1,0,0,0,0,0,False
+151928,"ROSTEK CO .,JSC",VN,ROSTEK-VN,78608,1,0,0,0,0,0,False
+151929,PRIMITIVE AI LLC,VN,PRIMITIVE-VN,78608,1,0,0,0,0,0,False
+151930,Ung Dung Development Technology Company Limited,VN,TRALL-NET-VN,78608,1,0,0,0,0,0,False
+151931,Cloud Era LLC,VN,ERACLOUD-VN,78608,1,0,0,0,0,0,False
+151932,Tan VPS Company Limited,VN,TANTHOIVPS-VN,78608,1,0,0,0,0,0,False
+151933,HOA FRUITS LLC,VN,HOAVPS-VN,78608,1,0,0,0,0,0,False
+151934,Thanh Trang Cloud Computing and Technology Company Limited,VN,THANHTRANG-VN,78608,1,0,0,0,0,0,False
+151935,Minh Nhat Paper General Company Limited,VN,GIAYMINHNHAT-VN,78608,1,0,0,0,0,0,False
+151936,ASAP Software Solutions Company Limited,VN,VNETWORK-ASAP-VN,78608,1,0,0,0,0,0,False
+151937,MEKONGNET LLC,VN,MEKONGNET-VN,78608,1,0,0,0,0,0,False
+151938,CLOUDY One Member LLC,VN,CLOUDY-VN,54093,1,1,1,0,0,0,True
+151939,ASIA TECHNOLOGY COMMUNICATIONS JOINT STOCK COMPANY,VN,ACOMM-VN,78608,1,0,0,0,0,0,False
+151940,TTT Data Encryption and Technology Co. LTD,VN,TTTDATA-VN,78608,1,0,0,0,0,0,False
+151941,Vietnam Online Entertainment Joint Stock Company OnPlay,VN,ONPLAY-VN,78608,1,0,0,0,0,0,False
+151942,PHAN HUU BAO DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED,VN,PHANHUUBAOSOLUTIONS-VN,78608,1,0,0,0,0,0,False
+151943,,VN,AS151943,78608,1,0,0,0,0,0,False
+151944,,VN,AS151944,78608,1,0,0,0,0,0,False
+151945,OI AGENCY MEDIA LIMITED,VN,OIA-VN,78608,1,0,0,0,0,0,False
+151946,DANG DINH LUONG DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED,VN,CLEMAX-VN,78608,1,0,0,0,0,0,False
+151947,,VN,AS151947,78608,1,0,0,0,0,0,False
+151948,IONSITE SOFTWARE ONE MEMBER COMPANY LIMITED,VN,IONSITE-VN,78608,1,0,0,0,0,0,False
+151949,MHI WHEREVER JOINT STOCK COMPANY,VN,MHI-VN,78608,1,0,0,0,0,0,False
+151950,RTLINK INDUSTRIAL EQUIPMENT AND TECHNOLOGY COMPANY LIMITED,VN,RTLINK-VN,78608,1,0,0,0,0,0,False
+152933,ZONECLOUD TECHNOLOGY JOINT STOCK COMPANY,VN,ZONECLOUD-VN,54093,1,15,1,0,0,0,True
+152934,DUC DUY HIGH TECHNOLOGY COMPANY LIMITED,VN,DUCDUY-VN,54093,1,2,1,0,0,0,True
+152935,PROXY VN TECHNOLOGY COMPANY LIMITED,VN,CLOUDPROXY-VN,30631,1,3,1,0,0,0,True
+152936,LIEN LIEN ELECTRONIC WAVE TECHNOLOGY COMPANY LIMITED,VN,CNSDTLL-VN,78608,1,0,0,0,0,0,False
+152937,NNK INFORMATION TECHNOLOGY COMPANY LIMITED,VN,VPSX-VN,78608,1,0,0,0,0,0,False
+152938,TRI VIET COMMERCIAL AND SYSTEM INTEGRATION COMPANY LIMITED,VN,TVSICO-VN,78608,1,0,0,0,0,0,False
+152939,NNK INFORMATION TECHNOLOGY COMPANY LIMITED,VN,NNKVPS-VN,78608,1,0,0,0,0,0,False
+152940,TTC TELECOM SERVICE TRADING INVESTMENT COMPANY LIMITED,VN,TTC-VN,49862,1,3,2,0,0,0,True
+152941,HYPERNODE ONE MEMBER COMPANY LIMITED,VN,HYPERNODE-VN,78608,1,0,0,0,0,0,False
+152942,BigData Network Technology Company Limited,VN,BIGDATA-VN,78608,1,0,0,0,0,0,False
+152943,FASTVT Network Technology Company Limited,VN,FASTVT-VN,78608,1,0,0,0,0,0,False
+152944,TIEN TRUNG SOFTWARE COMPANY LIMITED,VN,TIENTRUNG-VN,78608,1,0,0,0,0,0,False
+152945,DAINTY CLOUD INC,VN,DMX-VN,54093,1,1,1,0,0,0,True
+152946,TUAN TU TECHNOLOGY COMPANY LIMITED,VN,TUANTU-VN,78608,1,0,0,0,0,0,False
+152947,"Center for Statistical Data Processing and Integration, General Statistics Office",VN,TTXL-VN,60658,1,1,2,0,0,0,True
+152948,APAC Technology Engineering Company Limited,VN,APATECH-VN,78608,1,0,0,0,0,0,False
+152949,AZ VIETNAM TECHNOLOGY JOINT STOCK COMPANY,VN,AZTECH-VN,54093,1,2,1,0,0,0,True
+152950,Interserver LLC,VN,INTERSERVER-VN,78608,1,0,0,0,0,0,False
+152951,NDH Hosting Company Limited,VN,HOSTINGNDH-VN,78608,1,0,0,0,0,0,False
+152952,LAM ANH TM TECHNOLOGY COMPANY LIMITED,VN,LATECH-VN,78608,1,0,0,0,0,0,False
+152953,NORTH WIND SOFTWARE COMPANY LIMITED,VN,NORTHWIND-VN,54093,1,1,1,0,0,0,True
+152954,Technology DVT Company Limited,VN,DVT-VN,78608,1,0,0,0,0,0,False
+152955,CLOUDACE COMPANY LIMITED,VN,CLOUDACE-VN,54093,1,1,1,0,0,0,True
+152956,Duc Kien Technology Company Limited,VN,DPTCLOUD-VN,78608,1,0,0,0,0,0,False
+152957,ETC Computer Trading and Services Company Limited,VN,ETCNETWORK-VN,78608,1,0,0,0,0,0,False
+152958,IPXO Technology Company Limited,VN,IPXO-VN,78608,1,0,0,0,0,0,False
+152959,GKIN COMPANY LIMITED,VN,GKIN-VN,54093,1,1,1,0,0,0,True
+152960,CloudTTT Hosting Services LLC,VN,LUUTRUDATA-VN,78608,1,0,0,0,0,0,False
+152961,DEVTTT Website Design Company Limited,VN,DEVTTT-VN,78608,1,0,0,0,0,0,False
+152962,,VN,AS152962,78608,1,0,0,0,0,0,False
+152963,Phuong Nam Company Limited,VN,PHUONGNAM-VN,78608,1,0,0,0,0,0,False
+152964,Sehan Hosting Company Limited,VN,SEHAN-VN,78608,1,0,0,0,0,0,False
+152965,Green VPS Company Limitedx,VN,VXANH-VN,78608,1,0,0,0,0,0,False
+152966,ALGO DATA SERVICES COMPANY LIMITED,VN,ALGO-VN,54093,1,1,1,0,0,0,True
+152967,A2T TECHNOLOGY JOINT STOCK COMPANY,VN,A2TTECH-VN,78608,1,0,0,0,0,0,False
+152968,LPBank Insurance Joint Stock Corporation,VN,LPBANK-BAOHIEM-VN,49862,1,2,2,0,0,0,True
+152969,Kim Ky Nam Digital Technology Solutions Company Limited,VN,MAXERA-VN,54093,1,1,1,0,0,0,True
+152970,Hoa Lac Cloud Company Limited,VN,HOALACCLOUD-VN,78608,1,0,0,0,0,0,False
+152971,Digital Transformation Center - An Giang Department of Science and Technology,VN,DXAG-VN,78608,1,0,0,0,0,0,False
+152972,Technology NewVPS Company Limited,VN,NEWVPS-VN,78608,1,0,0,0,0,0,False
+152973,MAY CHU MANG TECHNOLOGY JOINT STOCK COMPANY,VN,MAYCHUMANG-VN,78608,1,0,0,0,0,0,False
+152974,AMZ CLOUD COMPANY LIMITED,VN,AMZCLOUD-VN,54093,1,1,1,0,0,0,True
+152975,DATAZ TECHNOLOGY COMPANY LIMITED,VN,DATAZ-VN,78608,1,0,0,0,0,0,False
+152976,Thanh Loan Fashion Company Limited,VN,ONJI-VN,54093,1,1,1,0,0,0,True
+152977,TrumCloud LLC,VN,TRUMCLOUDDATA-VN,78608,1,0,0,0,0,0,False
+152978,PHB Digital Technology Solutions Company Limited,VN,PHBTECH-VN,54093,1,2,1,0,0,0,True
+152979,Vietservice Technology Company Limited,VN,VIETSERVICE-VN,54093,1,3,1,0,0,0,True
+152980,KHANH CHI IDC COMPANY LIMITED,VN,KHANHCHIIDC-VN,54093,1,1,1,0,0,0,True
+152981,VNC NIX COMPANY LIMITED,VN,VNCNIX-VN,54093,1,1,1,0,0,0,True
+152982,Ho Chi Minh City University of Medicine and Pharmacy Hospital,VN,UMCHCMC-VN,78608,1,0,0,0,0,0,False
+152983,Cao Hoang Hai Technology Company Limited,VN,HOANGHAI-VN,54093,1,1,1,0,0,0,True
+152984,PVH Technology and Solutions Company Limited,VN,PVH-VN,78608,1,0,0,0,0,0,False
+152985,Cloud247 LLC,VN,CLOUD247-VN,78608,1,0,0,0,0,0,False
+152986,VPSMMOCLOUD LLC,VN,VPSMMOCP-VN,78608,1,0,0,0,0,0,False
+152987,Phan Lien Creative Technology Development Company Limited,VN,PHANLIENVPS-VN,78608,1,0,0,0,0,0,False
+152988,TVC Information Technology Company Limited,VN,TVC-VN,78608,1,0,0,0,0,0,False
+152989,System 443 Company Limited,VN,SYSTEM443-VN,54093,1,1,1,0,0,0,True
+152990,FOXAI TECHNOLOGY JOINT STOCK COMPANY,VN,FOXAI-VN,54093,1,1,1,0,0,0,True
+152991,Ngan Doan Cloud Company Limited,VN,NGANDOANCLOUD-VN,78608,1,0,0,0,0,0,False
+152992,ONLINE DATA COMPANY LIMITED,VN,DATAONLINE-VN,39683,1,3,1,0,0,0,True
+152993,Gemz Land Trading and Service Company Limited,VN,PROON-VN,54093,1,1,1,0,0,0,True
+152994,EB Services LLC,VN,CRVIT-VN,48405,1,3,4,0,0,0,True
+152995,The Phong Telecommunications Technology Service & Trading Company Limited,VN,VTTHEPHONG-VN,78608,1,0,0,0,0,0,False
+152996,Information and Communications Technology Center - Phu Tho Department of Information and Communications,VN,PTO-S4T-VN,78608,1,0,0,0,0,0,False
+152997,Nguyen Dinh IDC Company Limited,VN,NGUYENDINHIDC-VN,78608,1,0,0,0,0,0,False
+152998,Huong Nam Server Company Limited,VN,HUONGNAMSERVER26-VN,78608,1,0,0,0,0,0,False
+152999,Smart IP Company Limited,VN,SIP-VN,78608,1,0,0,0,0,0,False
+153000,Thao Tran Beauty Academy Company Limited,VN,THAOTRAN-VN,78608,1,0,0,0,0,0,False
+153001,VPS9T Technology Company Limited,VN,VPS9THMC-VN,78608,1,0,0,0,0,0,False
+153002,Fastvm Company Limited,VN,FASTVM-VN,78608,1,0,0,0,0,0,False
+153003,Digital Shield Technology Company Limited,VN,LACHANSO-VN,54093,1,2,1,0,0,0,True
+153004,"NH SECURITIES VIETNAM CO., LTD",VN,NHSV-VN,49862,1,1,2,0,0,0,True
+153005,PHU THANH CLOUD COMPANY LIMITED,VN,PTCLOUD-VN,78608,1,0,0,0,0,0,False
+153006,Thuong Tin Cloud Company Limited,VN,THUONGTINCLOUD-VN,78608,1,0,0,0,0,0,False
+153007,Dac Tin VPS Company Limited,VN,DACTINCLOUD-VN,78608,1,0,0,0,0,0,False
+153008,NETVN Software Company Limited,VN,NETVNSOFT-VN,78608,1,0,0,0,0,0,False
+153009,Phu An IDC Company Limited,VN,PHUANIDC-VN,78608,1,0,0,0,0,0,False
+153010,HTCN One Member LLC,VN,HTCNCOM-VN,78608,1,0,0,0,0,0,False
+153011,DVDVN Technology Company Limited,VN,DVDVN-VN,78608,1,0,0,0,0,0,False
+153012,"SERVER VIET NAM CO.,LTD",VN,MAYCHUVINA-VN,78608,1,0,0,0,0,0,False
+153013,GTSC VIETNAM TECHNOLOGY SERVICES AND COMMERCIAL JOINT STOCK COMPANY,VN,GTSC-DC1-VN,9178,2,26,2,0,1,3,True
+153014,Technology Sky Company Limited,VN,TSKY-VN,78608,1,0,0,0,0,0,False
+153015,08 Future Cloud Company Limited,VN,FUTURECLOUDVN-VN,78608,1,0,0,0,0,0,False
+153016,VN Change Digital Ltd.,VN,CHANGEDIGITAL-VN,67211,1,1,1,0,0,0,True
+153017,TIDADIGI COMPANY LIMITED,VN,TIDADIGI-VN,54093,1,1,1,0,0,0,True
+153018,COHOTA JOINT STOCK COMPANY,VN,COHOTA-VN,78608,1,0,0,0,0,0,False
+153019,T-Star Company Limited,VN,TSTAR-VN,78608,1,0,0,0,0,0,False
+153020,Totdata Data and Digital Services Company Limited,VN,TOTDATA-VN,78608,1,0,0,0,0,0,False
+153021,VPS VN Company Limitedc,VN,VPSTHTH-VN,78608,1,0,0,0,0,0,False
+153022,ADM TECHNOLOGY JOINT STOCK COMPANY,VN,ADM-VN,54093,1,2,1,0,0,0,True
+153023,Shopvps Technology Company Limited,VN,SHOPVPS-VN,78608,1,0,0,0,0,0,False
+153024,GOLDEN EGG MARKETING COMPANY LIMITED,VN,GOLDEN-VN,78608,1,0,0,0,0,0,False
+153025,Nam Son Group Technology and Services Company Limited,VN,NAMSONTECH-VN,78608,1,0,0,0,0,0,False
+153026,Techpay Technology and Services Company Limited,VN,TECHPAYCO-VN,78608,1,0,0,0,0,0,False
+153027,Sunsight Technology and Tourism Company Limited,VN,SUNSIGHT-VN,78608,1,0,0,0,0,0,False
+153028,Hong Lam Consulting Company Limited,VN,HONGLAMLAW-VN,78608,1,0,0,0,0,0,False
+153029,Ngan Ha Galaxy Company Limited,VN,NGANHAGALAXYVN-VN,78608,1,0,0,0,0,0,False
+153030,Datvps Information Technology Company Limited,VN,DATVPS-VN,78608,1,0,0,0,0,0,False
+153031,Huy Hoang Phat Telecommunications Company Limited,VN,HUYHOANGPHATVNVN-VN,78608,1,0,0,0,0,0,False
+153032,An Phat Viet Trading and Services Company Limited,VN,DOIX-NET-VN,54093,1,1,1,0,0,0,True
+153320,SANDCLOCK SERVICE TRADING COMPANY LIMITED,VN,SSTCL-AS-AP,27816,1,6,1,0,0,0,True
+153341,CLOUDERA ASIA COMPANY LIMITED,VN,CACL-AS-AP,78608,1,0,0,0,0,0,False
+153352,Mobite Network LLC,US,MOBITENETWORKLLC-AS-AP,78608,1,0,0,0,0,0,False
+153353,REAL SOLUTION HOANG GIA LAND,VN,RSHGL-AS-AP,78608,1,0,0,0,0,0,False
+153380,ASIA BQT CYBER TECHNOLOGY LLC,VN,ABCTL-AS-AP,78608,1,0,0,0,0,0,False
+153391,MINIUM NET LLC,US,MINIUMNETLLC-AS-AP,78608,1,0,0,0,0,0,False
+153401,Huu Dien High Technology Company Limited,VN,CAOHUUDIEN-VN,67211,1,1,1,0,0,0,True
+153402,Tuan Linh High Technology Company Limited,VN,TUANLINHVNVN-VN,78608,1,0,0,0,0,0,False
+153403,Huy Hoang Electronics and Telecommunications Company Limited,VN,NEFONET-VN,54093,1,1,1,0,0,0,True
+153404,Vietnam Physical Server Company Limited,VN,VNMCVLVNCLOUD-VN,78608,1,0,0,0,0,0,False
+153405,Hoa My Distribution Technology Company Limited,VN,HOAMYLOGIS-VN,78608,1,0,0,0,0,0,False
+153406,Hung Anh JSC Technology Company Limited,VN,HUNGANHJSC-VN,78608,1,0,0,0,0,0,False
+153407,Sava Meta Technology Joint Stock Company,VN,BAV-VN,54093,1,1,1,0,0,0,True
+153408,Phu Yen Physical Server Company Limited,VN,VNMCVLPYCLOUD-VN,78608,1,0,0,0,0,0,False
+153409,VTXK Trading and Services Company Limited,VN,VTXKVN-VN,78608,1,0,0,0,0,0,False
+153410,NEXT STEP TECHNOLOGY JOINT STOCK COMPANY,VN,NEXTSTEP-VN,39683,1,6,1,0,0,0,True
+153411,VPSDO Company Limited,VN,VPSDO-VN,78608,1,0,0,0,0,0,False
+153412,Ibtech Trading & Service Company Limited,VN,IBTECH-VN,78608,1,0,0,0,0,0,False
+153413,HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY,VN,HT3VIETNAM-VN,54093,1,2,1,0,0,0,True
+153414,Top Proxy LLC,VN,VNTOPPROXYCLOUD-VN,78608,1,0,0,0,0,0,False
+153415,Hoang Dieu Physical Server Company Limited,VN,HOANGDIEUVNCLOUD-VN,78608,1,0,0,0,0,0,False
+153416,Hoang Dieu Cloud Computing Company Limited,VN,DTDMVNCLOUD-VN,36223,1,2,2,0,0,0,True
+153417,Zenhub Trading & Service Company Limited,VN,ZENHUB-VN,78608,1,0,0,0,0,0,False
+153418,Dgon Technology and Solution Company Limited,VN,DGON-VN,39683,1,3,1,0,0,0,True
+153419,Thang Manh TTN Company Limited,VN,THANGMANHTTN-VN,78608,1,0,0,0,0,0,False
+153420,Nguyen Gia IDC Company Limited,VN,NGUYENGIAIDCVN-VN,78608,1,0,0,0,0,0,False
+153421,REALTECH TECHNOLOGY COMPANY LIMITED,VN,REALTECHNETVN-VN,78608,1,0,0,0,0,0,False
+153422,HND Green Agricultural Technology Company Limited,VN,AGRIHND-VN,78608,1,0,0,0,0,0,False
+153423,HDATA COMPANY LIMITED,VN,HDATA-VN,78608,1,0,0,0,0,0,False
+153424,Nam Dien Technology Company Limited,VN,NAMDIEN-VN,78608,1,0,0,0,0,0,False
+153425,Vu Gia Technology and Services Company Limited,VN,VUGIATECHVN-VN,78608,1,0,0,0,0,0,False
+153426,HT Proxy Company Limited,VN,PROXYHTCLOUD-VN,78608,1,0,0,0,0,0,False
+153427,KDATA Company Limited,VN,KDATA-VN,78608,1,0,0,0,0,0,False
+153428,TTP GROUP TECHNOLOGY TELECOMMUNICATION JOINT STOCK COMPANY,VN,TTPTELECOM-VN,49862,1,3,2,0,0,0,True
+153429,Le Quang Telecommunications Technology Company Limited,VN,BLATE-VN,54093,1,1,1,0,0,0,True
+153430,Quang Kim Digital Technology Investment and Development Company Limited,VN,TELEUPNET-VN,54093,1,1,1,0,0,0,True
+153431,LTL Digital Technology Company Limited,VN,LTL-VN,78608,1,0,0,0,0,0,False
+153433,IPA TECHNOLOGY SOLUTION JOINT STOCK COMPANY,VN,IPA-SOLUTIONS-VN,49862,1,2,2,0,0,0,True
+153434,S GLOBAL TECHNOLOGY JOINT STOCK COMPANY,VN,BAV-VN,78608,1,0,0,0,0,0,False
+153435,Center for Information Technology and Cyber Security Monitoring,VN,KHG-VN,78608,1,0,0,0,0,0,False
+153436,Future AI LLC,VN,AITUONGLAI-VN,78608,1,0,0,0,0,0,False
+153437,,VN,AS153437,78608,1,0,0,0,0,0,False
+153438,PHUONG NGA MY SUPPLY COMPANY LIMITED,VN,PNM-VN,78608,1,0,0,0,0,0,False
+153439,VPS4U TECHNOLOGY COMPANY LIMITED,VN,VPS4U-VN,78608,1,0,0,0,0,0,False
+153440,BSTECH COMPANY LIMITED,VN,BSTECHCLOUD-VN,78608,1,0,0,0,0,0,False
+153441,LNS Technology Company Limited,VN,LNS-VN,78608,1,0,0,0,0,0,False
+153442,TYU Website Management Company Limited,VN,CNCTYU-VN,78608,1,0,0,0,0,0,False
+153443,VPSRE.NET LLC,VN,VPSRE-NET-VN,78608,1,0,0,0,0,0,False
+153444,H2 Service Consulting Company Limited,VN,DVH2VN-VN,78608,1,0,0,0,0,0,False
+153445,Somi 168 Group International Joint Stock Company,VN,QTSOMIVN-VN,78608,1,0,0,0,0,0,False
+153446,VNONE Vietnam Company Limited,VN,VNONE-VN,78608,1,0,0,0,0,0,False
+153447,360 Technology and Services Company Limited,VN,CLOUD360-VN,30631,1,6,1,0,0,0,True
+153448,Nam Son Development Joint Stock Company,VN,NAMSONVN-VN,78608,1,0,0,0,0,0,False
+153449,Golden Key Solutions LLC,VN,GDKEY-VN,78608,1,0,0,0,0,0,False
+153450,STEP TECHNOLOGY INVESTMENT JOINT STOCK COMPANY,VN,CNSTEP-VN,78608,1,0,0,0,0,0,False
+153498,Tuyet San Trading Company Limited,VN,TUYETSAN-VN,78608,1,0,0,0,0,0,False
+153499,CLOUDX JOINT STOCK COMPANY,VN,CTCLOUDX-VN,54093,1,2,1,0,0,0,True
+153500,1School Education Technology and Solutions Company Limited,VN,ONESCHOOL-VN,49862,1,3,2,0,0,0,True
+153501,Pal Vietnam Technology and Trading Joint Stock Company,VN,PALVIETNAM-VN,78608,1,0,0,0,0,0,False
+153502,Specialized Web Company Limited,VN,WEBCHUYEN-VN,78608,1,0,0,0,0,0,False
+153503,MK Technology Trading Company Limited,VN,MK-VN,78608,1,0,0,0,0,0,False
+153504,HTH Technology Development Company Limited,VN,HTH-VN,78608,1,0,0,0,0,0,False
+153505,DichvuDark LLC,VN,DICHVUDARK-VN,78608,1,0,0,0,0,0,False
+153506,Pow Pow LLC,VN,POWCLOUD-VN,78608,1,0,0,0,0,0,False
+153507,VPBANK SECURITIES JSC,VN,VPBANKS-VN,78608,1,0,0,0,0,0,False
+153532,Trung Tin Iron and Aluminum Company Limited,VN,TRUNGTINVPS-VN,78608,1,0,0,0,0,0,False
+153534,CAO GIA NANOMEDECINE TECHNOLOGY JOINT STOCK COMPANY,AU,CNCAOGIA-VN,78608,1,0,0,0,0,0,False
+153535,HLC VIET NAM JOINT STOCK COMPANY,AU,HLC-VN,54093,1,1,1,0,0,0,True
+153536,Osie Cloud LLC,AU,OSIE-VN,54093,1,1,1,0,0,0,True
+153539,VIETNAM INTERNET NETWORK COMPANY NO. 1,AU,THUEMAYCHUVN-VN,54093,1,1,1,0,0,0,True
+153540,PITC Investment Joint Stock Company,VN,PITC-VN,78608,1,0,0,0,0,0,False
+153541,KIGI GROUP JOINT STOCK COMPANY,AU,KIGIGROUPCLOUD-VN,78608,1,0,0,0,0,0,False
+153542,ECOAI Joint Stock Company,AU,CPECOAI-VN,78608,1,0,0,0,0,0,False
+153543,TECHNOLOGY AT YOUR HANDS COMPANY LIMITED,AU,VINAGPU-NET-VN,54093,1,1,1,0,0,0,True
+153544,VUTA VIET NAM COMPANY LIMITED,AU,VUTAVNCLOUD-VN,78608,1,0,0,0,0,0,False
+153585,Gold Key Real Estate Investment Company Limited,VN,COMTER-VN,54093,1,1,1,0,0,0,True
+153586,BNIX CLOUD COMPANY LIMITED,VN,BXCLOUD-VN,78608,1,0,0,0,0,0,False
+153591,LEEON TECHNOLOGY COMPANY LIMITED,VN,SKYX-VN,67211,1,1,1,0,0,0,True
+153592,TQT CLOUD SERVER ONE MEMBER COMPANY LIMITED,VN,TQT-VN,78608,1,0,0,0,0,0,False
+153616,Technology Bluesky Company Limited,VN,BLUESKY-VN,78608,1,0,0,0,0,0,False
+153617,MANH BANG ONE MEMBER COMPANY LIMITED,VN,MBC-VN,78608,1,0,0,0,0,0,False
+153635,URANUS TECHNOLOGY COMPANY LIMITED,VN,URANUS-VN,78608,1,0,0,0,0,0,False
+153647,Viet Homes Furniture Manufacturing Company Limited,VN,OSERVER-VN,54093,1,1,1,0,0,0,True
+153649,Nguyenphonglong One Member Company Limited,VN,NPL-VN,78608,1,0,0,0,0,0,False
+153650,MEGAMAX VIET NAM TECHNOLOGY JOINT STOCK COMPANY,VN,MEGAMAX-VN,48776,1,2,3,0,0,0,True
+153651,QPPF Company Limited,VN,QPPF-VN,54093,1,1,1,0,0,0,True
+153652,Duyen Tran Digital Technology Consulting Company Limited,VN,CNSDTND-VN,78608,1,0,0,0,0,0,False
+153653,TVQ Technology Trading & Services Company Limited,VN,CNTVQND-VN,78608,1,0,0,0,0,0,False
+153683,VIETNAM V2 INFORMATION SECURE JOINT STOCK COMPANY,VN,V2SECURE-VN,54093,1,1,1,0,0,0,True
+153713,AGRIBANK SECURITIES CORPORATION,VN,AGRISECO-VN,54093,1,1,1,0,0,0,True
+153732,Ho Chi Minh National Academy of Politics,VN,HCMA-VN,78608,1,0,0,0,0,0,False
+153741,"Lewu Tech Co., Ltd.",VN,LEWUTECH-VN,78608,1,0,0,0,0,0,False
+153743,Anh Dao Phuc Technology Company Limited,VN,ADPTECH-VN,78608,1,0,0,0,0,0,False
+153750,GZ CORE COMPANY LIMITED,VN,GZCOREVN-VN,78608,1,0,0,0,0,0,False
+153752,Le Gia Technology Company Limited,VN,LEGIA-VN,78608,1,0,0,0,0,0,False
+153762,TIEN DUNG INVESTMENT AND COMMERCE SERVICE COMPANY LIMITED,VN,TMDVDTTIENDUNG-VN,78608,1,0,0,0,0,0,False
+153763,DATA 360 TECHNOLOGY JOINT STOCK COMPANY,VN,CONGNGHEDATA360-VN,78608,1,0,0,0,0,0,False
+153780,PAYX Payment Company Limited,VN,PAYX-VN,78608,1,0,0,0,0,0,False
+153808,VNG CLOUD COMPANY LIMITED,VN,VNGCLOUD-VN,78608,1,0,0,0,0,0,False
+153828,DTH CLOUD COMPUTING TECHNOLOGY COMPANY LIMITED,VN,DTHCLOUD-VN,78608,1,0,0,0,0,0,False
+153829,Le Hong Technology Company Limited,VN,LEHONGCLOUD-VN,78608,1,0,0,0,0,0,False
+153830,Upnet Technology Solutions Company Limited,VN,UPNET-VN,30631,1,3,1,0,0,0,True
+153831,Bao Khanh ICT Company Limited,VN,BAOKHANHICT-VN,54093,1,1,1,0,0,0,True
+153859,BIGSERVER COMPANY LIMITED,VN,BIGSERVER-VN,78608,1,0,0,0,0,0,False
+153860,Onepay Online Service and Commercial Joint Stock Company,VN,ONEPAY-VN,78608,1,0,0,0,0,0,False
+153872,AZVPS TECHNOLOGY COMPANY LIMITED,VN,AZVPS-VN,78608,1,0,0,0,0,0,False
+153873,Comi Website Design Company Limited,VN,COMI-VN,78608,1,0,0,0,0,0,False
+153941,ESECURE SOLUTION LIMITED COMPANY,VN,ESSNET-VN,49862,1,1,2,0,0,0,True
+153958,WEB SERVER COMPANY LIMITED,VN,WEBSERVER-VN,78608,1,0,0,0,0,0,False
+153959,VMON Service Technology Company Limited,VN,VMON-VN,78608,1,0,0,0,0,0,False
+153976,Le Vu Technology Infrastructure Services Company Limited,VN,LEVUCLOUD-VN,78608,1,0,0,0,0,0,False
+153982,Huong Ly Technology Company Limited,VN,HUONGLYCLOUD-VN,78608,1,0,0,0,0,0,False
+153983,HIEUVPS TECHNOLOGY COMPANY LIMITED,VN,HIEUVPSCLOUD-VN,54093,1,1,1,0,0,0,True
+154003,NOBIDEV COMPANY LIMITED,VN,NOBIDEV-VN,67211,1,1,1,0,0,0,True
+154004,"Olahost Technology Co., Ltd.",VN,OLAHOST-VN,78608,1,0,0,0,0,0,False
+154016,AI APPLICATION SOFTWARE COMPANY LIMITED,VN,PHANMEMUNGDUNGAI-VN,78608,1,0,0,0,0,0,False
+154017,AI WEBSITE DESIGN SERVICES COMPANY LIMITED,VN,TKWEBSITEAI-VN,78608,1,0,0,0,0,0,False
+154042,NEXTZEN TECHNOLOGY JOIN STOCK COMPANY,VN,NEXTZEN-IDC-VN,78608,1,0,0,0,0,0,False
+154053,Hanoi National University of Education,VN,HNUE-VN,54093,1,1,1,0,0,0,True
+154070,TOTBRAIN COMPANY LIMITED,VN,TOTBRAIN-VN,78608,1,0,0,0,0,0,False
+154082,"Cloud247 Tech Co., Ltd.",VN,TECH247-VN,78608,1,0,0,0,0,0,False
+154091,SAVING SOLUTION TECHNOLOGY CORPORATION,VN,SASOLTECH-VN,54093,1,2,1,0,0,0,True
+154105,ZALO PLATFORMS COMPANY LIMITED,VN,ZALOPLATFORMS-VN,54093,1,3,1,0,0,0,True
+154106,VNG ONLINE COMPANY LIMITED,VN,VNGONLINE-VN,54093,1,3,1,0,0,0,True
+154134,COMMERCIAL MOBILE INFORMATION TECHNOLOGY JOINT STOCK COMPANY,VN,CONEK-VN,78608,1,0,0,0,0,0,False
+154135,Contabo Company Limited,VN,CONTABO-VN,78608,1,0,0,0,0,0,False
+154144,MOBIFONE DIGITAL PAYMENT JOINT STOCK COMPANY,VN,MDPC-VN,54093,1,2,1,0,0,0,True
+154247,MCO HA NOI TECHNOLOGY COMPANY LIMITED,VN,MCO-VN,67211,1,1,1,0,0,0,True
+154339,"Zyn Data Technology Solutions Co., Ltd.",VN,ZYNDATA-VN,,,,,,,,
+154350,ATZ CORP JOINT STOCK COMPANY,VN,ATZCORP-VN,,,,,,,,
+154364,DCConnect Vietnam Company Limited,VN,DVCL-AS-AP,,,,,,,,
+154388,ETC Technology System Joint Stock Company,VN,ETCJSC-VN,,,,,,,,
+154389,N Group Investment Joint Stock Company,VN,NGROUP-VN,,,,,,,,
+154406,VIETNAM MARITIME COMMUNICATION AND ELECTRONICS SINGLE-MEMBER LIMITED LIABILITY COMPANY,VN,VISHIPEL-VN,,,,,,,,
+154431,TICK PLATFORM JOINT STOCK COMPANY,VN,TICK-VN,,,,,,,,
+154460,DHD TECHNOLOGY JOINT STOCK COMPANY,VN,DHD-VN,,,,,,,,
+154491,,,,,,,,,,,
+154546,,,,,,,,,,,
+154552,,,,,,,,,,,

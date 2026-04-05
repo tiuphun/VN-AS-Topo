@@ -5,3 +5,4 @@ pandas
 mrtparse
 pyvis
 matplotlib
+numpy
