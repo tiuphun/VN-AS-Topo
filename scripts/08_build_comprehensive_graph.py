@@ -136,7 +136,7 @@ def build_topology():
                        weight=1,
                        title=f"Peers at {ixp_names.get(int(row['ix_id']), 'IXP')}",
                        color=COLORS['ixp_link'],
-                       data_source='peeringdb')
+                       source='peeringdb')
             pdb_edges += 1
         print(f"  Added {len(ixps)} IXP nodes and {pdb_edges} IXP-peering edges.")
     except Exception as e:
@@ -166,7 +166,7 @@ def build_topology():
                        weight=2,
                        title="Peers at VNIX",
                        color=COLORS['ixp_link'],
-                       data_source='vnix')
+                       source='vnix')
             vnix_edges += 1
         print(f"  Added {vnix_edges} VNIX member edges.")
     except Exception as e:
@@ -234,7 +234,7 @@ def build_topology():
                    title=title,
                    color=edge_color,
                    relationship=rel_type,
-                   data_source='routeviews')
+                   source='routeviews')
         bgp_edge_count += 1
 
     print(f"  Added {bgp_edge_count} BGP edges.")
