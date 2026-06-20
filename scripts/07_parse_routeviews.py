@@ -74,6 +74,9 @@ def parse_bgpdump_sanitized():
     # ── Process each MRT file ────────────────────────────────────
     stats = SanitizationStats()
     vn_edges = {}  # edge_tuple -> set of source files
+    vnix_edges = {} # edge_tuple -> set of source files for connections via VNIX
+    
+    VNIX_ASNS = {23899, 56156, 23962}
 
     for f in mrt_files:
         fname = os.path.basename(f)
@@ -110,6 +113,23 @@ def parse_bgpdump_sanitized():
                 if not raw_asns:
                     continue
 
+                # --- VNIX Traffic Analysis ---
+                # Remove prepends to clearly see adjacent ASNs
+                deduped_raw = []
+                for asn in raw_asns:
+                    if not deduped_raw or asn != deduped_raw[-1]:
+                        deduped_raw.append(asn)
+                
+                # Check for VN_ASN -> VNIX_ASN -> VN_ASN
+                for i in range(1, len(deduped_raw) - 1):
+                    if deduped_raw[i] in VNIX_ASNS:
+                        if deduped_raw[i-1] in vn_asns and deduped_raw[i+1] in vn_asns:
+                            edge = tuple(sorted([deduped_raw[i-1], deduped_raw[i+1]]))
+                            if edge not in vnix_edges:
+                                vnix_edges[edge] = set()
+                            vnix_edges[edge].add(fname)
+                # -----------------------------
+
                 # Sanitize the AS path
                 clean_path = sanitize_as_path_with_stats(
                     raw_asns, ixp_asns, special_asns, stats
@@ -139,6 +159,11 @@ def parse_bgpdump_sanitized():
     stats.report()
 
     print(f"Domestic VN↔VN edges found: {len(vn_edges)}")
+    print(f"Domestic VN↔VN edges via VNIX found: {len(vnix_edges)}")
+    
+    if len(vn_edges) > 0:
+        vnix_pct = (len(vnix_edges) / len(vn_edges)) * 100
+        print(f"Percentage of domestic connections utilizing VNIX: {vnix_pct:.2f}%")
 
     # ── Save ─────────────────────────────────────────────────────
     if vn_edges:
@@ -155,6 +180,23 @@ def parse_bgpdump_sanitized():
         output_path = os.path.join(processed_dir, 'vn_bgp_edges.csv')
         df_edges.to_csv(output_path, index=False)
         print(f"Saved {len(df_edges)} sanitized edges to {output_path}")
+        
+    if vnix_edges:
+        vnix_records = []
+        for (asn1, asn2), sources in sorted(vnix_edges.items()):
+            vnix_records.append({
+                'asn1': asn1,
+                'asn2': asn2,
+                'num_sources': len(sources),
+                'sources': ';'.join(sorted(sources)),
+                'via_vnix': True
+            })
+        df_vnix = pd.DataFrame(vnix_records)
+        vnix_output_path = os.path.join(processed_dir, 'vn_bgp_vnix_edges.csv')
+        df_vnix.to_csv(vnix_output_path, index=False)
+        print(f"Saved {len(df_vnix)} VNIX edges to {vnix_output_path}")
+    elif len(vn_edges) > 0:
+        print("No edges found via VNIX!")
     else:
         print("No edges found!")
 

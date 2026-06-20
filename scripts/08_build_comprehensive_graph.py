@@ -136,18 +136,17 @@ def build_topology():
                        weight=1,
                        title=f"Peers at {ixp_names.get(int(row['ix_id']), 'IXP')}",
                        color=COLORS['ixp_link'],
-                       source='peeringdb')
+                       data_source='peeringdb')
             pdb_edges += 1
         print(f"  Added {len(ixps)} IXP nodes and {pdb_edges} IXP-peering edges.")
     except Exception as e:
         print(f"  Error loading PeeringDB: {e}")
 
     # ──────────────────────────────────────────────────────────────
-    # Step 7b: Add VNIX connections
+    # Step 7b: Add VNIX connections (from website and BGP dumps)
     # ──────────────────────────────────────────────────────────────
     print("\n[Step 7b] Adding VNIX member connections...")
     try:
-        df_vnix = pd.read_csv(os.path.join(processed_dir, 'vnix_members.csv'))
         G.add_node("VNIX",
                     group='IXP',
                     title="Vietnam National Internet eXchange",
@@ -157,8 +156,26 @@ def build_topology():
                     shape='diamond')
 
         vnix_edges = 0
-        for asn in df_vnix['asn'].dropna():
-            asn = int(asn)
+        vnix_members_set = set()
+        
+        # 1. Scraped from website
+        try:
+            df_vnix = pd.read_csv(os.path.join(processed_dir, 'vnix_members.csv'))
+            for asn in df_vnix['asn'].dropna():
+                vnix_members_set.add(int(asn))
+        except Exception as e:
+            print(f"  Error loading VNIX members: {e}")
+            
+        # 2. Inferred from BGP RouteViews
+        try:
+            df_vnix_bgp = pd.read_csv(os.path.join(processed_dir, 'vn_bgp_vnix_edges.csv'))
+            for _, row in df_vnix_bgp.iterrows():
+                vnix_members_set.add(int(row['asn1']))
+                vnix_members_set.add(int(row['asn2']))
+        except Exception as e:
+            pass
+
+        for asn in vnix_members_set:
             node_id = f"AS{asn}"
             if not G.has_node(node_id):
                 G.add_node(node_id, group='VN_ASN', title=f"AS{asn}", label=f"AS{asn}", size=15)
@@ -166,11 +183,12 @@ def build_topology():
                        weight=2,
                        title="Peers at VNIX",
                        color=COLORS['ixp_link'],
-                       source='vnix')
+                       data_source='vnix_combined')
             vnix_edges += 1
-        print(f"  Added {vnix_edges} VNIX member edges.")
+            
+        print(f"  Added {vnix_edges} VNIX member edges (combined from website and BGP).")
     except Exception as e:
-        print(f"  Error loading VNIX: {e}")
+        print(f"  Error setting up VNIX: {e}")
 
     # ──────────────────────────────────────────────────────────────
     # Step 7c: Add BGP edges (classified if available)
@@ -192,6 +210,15 @@ def build_topology():
         print("  WARNING: No BGP edge data found! Run 07_parse_routeviews.py first.")
         df_edges = pd.DataFrame()
         has_classification = False
+
+    # Load via_vnix information
+    via_vnix_edges = set()
+    try:
+        df_vnix_bgp = pd.read_csv(os.path.join(processed_dir, 'vn_bgp_vnix_edges.csv'))
+        for _, row in df_vnix_bgp.iterrows():
+            via_vnix_edges.add(tuple(sorted([int(row['asn1']), int(row['asn2'])])))
+    except Exception:
+        pass
 
     bgp_edge_count = 0
     rel_counts = {'p2c': 0, 'p2p': 0, 'unknown': 0}
@@ -228,13 +255,17 @@ def build_topology():
 
         # Add edge weight from number of sources if available
         weight = int(row.get('num_sources', 1))
+        
+        edge_tuple = tuple(sorted([asn1, asn2]))
+        is_via_vnix = edge_tuple in via_vnix_edges
 
         G.add_edge(u, v,
                    weight=weight,
                    title=title,
                    color=edge_color,
                    relationship=rel_type,
-                   source='routeviews')
+                   data_source='routeviews',
+                   via_vnix=is_via_vnix)
         bgp_edge_count += 1
 
     print(f"  Added {bgp_edge_count} BGP edges.")
