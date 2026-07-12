@@ -1,0 +1,23 @@
+=== AS Path Sanitization Report (v2 — Context-Aware VNIX) ===
+  Total raw paths processed:          111,036,089
+  Paths retained after sanitization:  110,566,388
+  Paths dropped (empty/single):       469,701
+  Special ASNs removed:               12,319
+  Prepends removed:                   54,085,591
+  Loops removed:                      54,375
+  ── IXP Route-Server Handling ──
+  Non-VNIX IXP ASNs removed:          2,487,559
+  VNIX ASNs removed (middle/RS role):  390
+  VNIX ASNs retained (edge/operator):  611
+  VNIX-facilitated edges discovered:   390
+  Total IXP ASN removals:              2,487,949
+============================================================
+
+Domestic VN↔VN edges: 934
+VNIX-facilitated domestic edges: 22
+Unique domestic edge pairs via VNIX: 19
+
+VNIX breakdown by exchange:
+  VNIX-DN: 1
+  VNIX-HCM: 8
+  VNIX-HN: 13

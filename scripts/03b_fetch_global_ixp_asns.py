@@ -61,7 +61,6 @@ def fetch_all_ixp_route_server_asns():
 
     # Also add well-known IXP route-server ASNs that may not be tagged
     well_known_rs_asns = {
-        47541,   # VNIX route server (if any)
         24115,   # HKIX RS
         24516,   # BKNIX RS
         7947,    # LINX RS
